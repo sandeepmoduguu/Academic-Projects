@@ -1,0 +1,524 @@
+Unnamed: 0,Suburb,Address,Rooms,Type,Price,Method,SellerG,Date,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+2,Abbotsford,25 Bloomburg St,2,h,1035000,S,Biggin,04-02-2016,2.5,3067,2,1,0,156,79,1900,Yarra,-37.8079,144.9934,Northern Metropolitan,4019
+3,Abbotsford,5 Charles St,3,h,1465000,SP,Biggin,04-03-2017,2.5,3067,3,2,0,134,150,1900,Yarra,-37.8093,144.9944,Northern Metropolitan,4019
+5,Abbotsford,55a Park St,4,h,1600000,VB,Nelson,04-06-2016,2.5,3067,3,1,2,120,142,2014,Yarra,-37.8072,144.9941,Northern Metropolitan,4019
+7,Abbotsford,124 Yarra St,3,h,1876000,S,Nelson,07-05-2016,2.5,3067,4,2,0,245,210,1910,Yarra,-37.8024,144.9993,Northern Metropolitan,4019
+8,Abbotsford,98 Charles St,2,h,1636000,S,Nelson,08-10-2016,2.5,3067,2,1,2,256,107,1890,Yarra,-37.806,144.9954,Northern Metropolitan,4019
+12,Abbotsford,10 Valiant St,2,h,1097000,S,Biggin,08-10-2016,2.5,3067,3,1,2,220,75,1900,Yarra,-37.801,144.9989,Northern Metropolitan,4019
+17,Abbotsford,40 Nicholson St,3,h,1350000,VB,Nelson,12-11-2016,2.5,3067,3,2,2,214,190,2005,Yarra,-37.8085,144.9964,Northern Metropolitan,4019
+18,Abbotsford,123/56 Nicholson St,2,u,750000,S,Biggin,12-11-2016,2.5,3067,2,2,1,0,94,2009,Yarra,-37.8078,144.9965,Northern Metropolitan,4019
+23,Abbotsford,16 William St,2,h,1310000,S,Jellis,15-10-2016,2.5,3067,2,1,2,238,97,1890,Yarra,-37.809,144.9976,Northern Metropolitan,4019
+24,Abbotsford,42 Henry St,3,h,1200000,S,Jellis,16-07-2016,2.5,3067,3,2,1,113,110,1880,Yarra,-37.8056,144.993,Northern Metropolitan,4019
+26,Abbotsford,78 Yarra St,3,h,1176500,S,LITTLE,16-07-2016,2.5,3067,2,1,1,138,105,1890,Yarra,-37.8021,144.9965,Northern Metropolitan,4019
+28,Abbotsford,42 Valiant St,2,h,890000,S,Biggin,17-09-2016,2.5,3067,2,1,1,150,73,1985,Yarra,-37.8011,145.0004,Northern Metropolitan,4019
+29,Abbotsford,3/72 Charles St,4,h,1330000,PI,Kay,18-03-2017,2.5,3067,4,2,2,780,135,1900,Yarra,-37.8073,144.9952,Northern Metropolitan,4019
+32,Abbotsford,6/219 Nicholson St,2,u,500000,S,Collins,18-06-2016,2.5,3067,2,1,1,0,60,1970,Yarra,-37.8015,144.9972,Northern Metropolitan,4019
+33,Abbotsford,52a William St,2,h,1100000,PI,Biggin,18-06-2016,2.5,3067,2,2,1,124,135,2013,Yarra,-37.8079,144.9977,Northern Metropolitan,4019
+34,Abbotsford,49 Park St,2,h,1315000,S,Marshall,19-11-2016,2.5,3067,2,1,0,147,85,1900,Yarra,-37.808,144.994,Northern Metropolitan,4019
+38,Abbotsford,48 Abbotsford St,3,h,1447500,PI,Nelson,22-08-2016,2.5,3067,3,3,1,166,174,2012,Yarra,-37.8017,145.0001,Northern Metropolitan,4019
+40,Abbotsford,159 Park St,2,h,1135000,S,Nelson,22-08-2016,2.5,3067,2,2,2,98,128,1920,Yarra,-37.8005,144.9952,Northern Metropolitan,4019
+45,Abbotsford,60 Stafford St,3,h,1290000,S,Biggin,25-02-2017,2.5,3067,3,1,1,168,124,1950,Yarra,-37.8007,144.9958,Northern Metropolitan,4019
+46,Abbotsford,11/205 Gipps St,1,u,470000,S,Nelson,26-07-2016,2.5,3067,1,1,1,0,50,2013,Yarra,-37.8055,144.9961,Northern Metropolitan,4019
+47,Abbotsford,47 Studley St,2,h,1180000,S,Jellis,27-11-2016,2.5,3067,2,1,0,162,91,1900,Yarra,-37.8016,144.9956,Northern Metropolitan,4019
+48,Abbotsford,45 Yarra St,3,h,1195000,SP,Jellis,27-11-2016,2.5,3067,3,2,1,120,128,1998,Yarra,-37.8022,144.9954,Northern Metropolitan,4019
+49,Abbotsford,200 Nicholson St,2,h,1012500,S,Nelson,28-05-2016,2.5,3067,2,1,0,182,82,1900,Yarra,-37.8021,144.9976,Northern Metropolitan,4019
+51,Abbotsford,27 Charles St,2,h,1030000,S,Biggin,30-07-2016,2.5,3067,2,1,1,172,81,1930,Yarra,-37.8086,144.9946,Northern Metropolitan,4019
+53,Alphington,6 Smith St,4,h,2000000,S,Brace,03-09-2016,6.4,3078,3,2,4,853,263,1930,Darebin,-37.7707,145.0318,Northern Metropolitan,2211
+58,Alphington,44 Shiers St,4,h,1717500,S,Collins,08-10-2016,6.4,3078,4,2,1,599,203,1925,Darebin,-37.7717,145.031,Northern Metropolitan,2211
+59,Alphington,83 Fulham Rd,5,h,2840000,S,Nelson,12-06-2016,6.4,3078,5,4,4,809,165,1910,Darebin,-37.775,145.0268,Northern Metropolitan,2211
+60,Alphington,3/19 Harker St,2,u,525500,S,Miles,12-11-2016,6.4,3078,2,1,1,88,60,1960,Darebin,-37.7791,145.0306,Northern Metropolitan,2211
+61,Alphington,4/2 Miller St,2,t,805000,S,Miles,12-11-2016,6.4,3078,2,2,3,155,140,2004,Darebin,-37.7804,145.0308,Northern Metropolitan,2211
+68,Alphington,10 Bennett St,4,h,1830000,S,Nelson,19-11-2016,6.4,3078,4,2,2,606,112,1970,Darebin,-37.7743,145.0316,Northern Metropolitan,2211
+69,Alphington,38 Bennett St,4,h,2100000,S,Nelson,19-11-2016,6.4,3078,4,2,2,575,271,2008,Darebin,-37.7723,145.0319,Northern Metropolitan,2211
+70,Alphington,2c Hamilton St,3,h,865000,SP,hockingstuart,22-05-2016,6.4,3078,3,1,1,180,131,2010,Darebin,-37.7802,145.0243,Northern Metropolitan,2211
+71,Alphington,5/5 Yarana Rd,2,u,390000,VB,Nelson,22-05-2016,6.4,3078,2,1,1,0,60,1960,Darebin,-37.7773,145.0314,Northern Metropolitan,2211
+73,Alphington,1/14 Fulham Rd,2,u,512000,S,Love,25-02-2017,6.4,3078,2,1,1,0,61,1965,Darebin,-37.7805,145.0262,Northern Metropolitan,2211
+79,Alphington,11 Margaret Gr,4,h,1900000,SP,McGrath,27-11-2016,6.4,3078,4,2,2,556,272,1930,Yarra,-37.7844,145.0225,Northern Metropolitan,2211
+81,Alphington,42 Shiers St,4,h,1950000,S,Jellis,30-07-2016,6.4,3078,4,2,3,589,210,1920,Darebin,-37.7719,145.0309,Northern Metropolitan,2211
+83,Brunswick,234 Victoria St,2,h,1026000,S,Nelson,03-09-2016,5.2,3056,2,1,0,225,108,1905,Moreland,-37.7676,144.9665,Northern Metropolitan,11918
+84,Brunswick,9 Blair St,4,h,1802500,S,Jellis,03-12-2016,5.2,3056,4,3,1,238,93,1910,Moreland,-37.7713,144.9643,Northern Metropolitan,11918
+85,Brunswick,25 Hardy St,4,h,1500000,VB,Nelson,03-12-2016,5.2,3056,4,3,1,365,209,1890,Moreland,-37.7624,144.9671,Northern Metropolitan,11918
+89,Brunswick,29 Stewart St,4,h,2230000,S,Nelson,04-03-2017,5.2,3056,4,2,3,851,287,1940,Moreland,-37.7637,144.9662,Northern Metropolitan,11918
+91,Brunswick,11/97 Brickworks Dr,2,u,410000,S,Ray,04-06-2016,5.2,3056,2,1,1,0,66,2000,Moreland,-37.7695,144.9528,Northern Metropolitan,11918
+92,Brunswick,9/15 De Carle St,1,u,272500,PI,Walshe,04-06-2016,5.2,3056,1,1,1,0,40,1970,Moreland,-37.762,144.9647,Northern Metropolitan,11918
+93,Brunswick,2/3 Donald St,3,h,680000,PI,Nelson,04-06-2016,5.2,3056,3,3,1,81,100,2016,Moreland,-37.7575,144.9647,Northern Metropolitan,11918
+95,Brunswick,3/9 Austin Tce,2,u,400000,S,Jellis,06-08-2016,5.2,3056,2,1,1,0,61,1970,Moreland,-37.7608,144.968,Northern Metropolitan,11918
+96,Brunswick,77 Blyth St,3,h,950000,SP,Jellis,06-08-2016,5.2,3056,3,1,0,170,96,1910,Moreland,-37.7661,144.9691,Northern Metropolitan,11918
+99,Brunswick,141 Gold St,2,h,845500,S,Nelson,07-05-2016,5.2,3056,2,1,1,179,90,1890,Moreland,-37.7742,144.9542,Northern Metropolitan,11918
+101,Brunswick,3/4 Mitchell St,2,t,605000,PI,Jellis,07-05-2016,5.2,3056,2,1,1,0,78,2009,Moreland,-37.7588,144.9646,Northern Metropolitan,11918
+103,Brunswick,9/33 Staley St,2,u,445000,S,Walshe,07-05-2016,5.2,3056,2,1,1,0,61,1975,Moreland,-37.7643,144.9638,Northern Metropolitan,11918
+104,Brunswick,1/263 Albion St,2,u,659500,S,Walshe,07-11-2016,5.2,3056,2,1,1,100,85,1970,Moreland,-37.7601,144.9581,Northern Metropolitan,11918
+105,Brunswick,6/153 Barkly St,2,u,600000,S,Nelson,07-11-2016,5.2,3056,2,1,1,0,75,2011,Moreland,-37.777,144.9703,Northern Metropolitan,11918
+109,Brunswick,129 Albion St,4,h,1115000,PI,Jellis,08-10-2016,5.2,3056,4,1,0,264,139,1900,Moreland,-37.7611,144.9677,Northern Metropolitan,11918
+111,Brunswick,39 Eveline St,3,h,1125000,S,Jellis,08-10-2016,5.2,3056,3,1,1,278,91,1910,Moreland,-37.7701,144.9633,Northern Metropolitan,11918
+112,Brunswick,28 Osborne St,3,h,855000,S,Nelson,08-10-2016,5.2,3056,3,1,1,229,97,1930,Moreland,-37.7622,144.9586,Northern Metropolitan,11918
+115,Brunswick,16 Thistle St,3,t,940000,S,Ray,08-10-2016,5.2,3056,3,2,1,186,140,2016,Moreland,-37.7581,144.9514,Northern Metropolitan,11918
+117,Brunswick,3/38 Charles St,2,t,750000,PI,Nelson,10-09-2016,5.2,3056,2,2,1,118,88,2013,Moreland,-37.7723,144.9643,Northern Metropolitan,11918
+118,Brunswick,73 Davies St,2,h,1056000,S,Nelson,10-09-2016,5.2,3056,2,1,1,315,108,1910,Moreland,-37.757,144.9697,Northern Metropolitan,11918
+122,Brunswick,3/5 Evans St,3,u,880000,S,Dingle,10-12-2016,5.2,3056,3,2,1,122,152,2000,Moreland,-37.7697,144.9649,Northern Metropolitan,11918
+123,Brunswick,5 MacKenzie St,3,h,1222500,S,Nelson,10-12-2016,5.2,3056,3,1,0,331,126,1890,Moreland,-37.7619,144.959,Northern Metropolitan,11918
+128,Brunswick,87 Hope St,3,t,955000,S,Nelson,11-02-2017,5.2,3056,3,2,2,327,110,2007,Moreland,-37.7636,144.9559,Northern Metropolitan,11918
+134,Brunswick,1/32 Donald St,2,u,587000,SP,Jellis,12-11-2016,5.2,3056,2,1,1,114,65,1970,Moreland,-37.758,144.9667,Northern Metropolitan,11918
+135,Brunswick,98 Evans St,3,h,1060000,S,Nelson,12-11-2016,5.2,3056,3,1,0,257,121,1935,Moreland,-37.7704,144.9695,Northern Metropolitan,11918
+138,Brunswick,246 Victoria St,2,h,890000,S,Jellis,12-11-2016,5.2,3056,2,1,1,199,93,1900,Moreland,-37.7676,144.9659,Northern Metropolitan,11918
+141,Brunswick,2/12 Jones St,2,t,685000,SP,Jellis,13-08-2016,5.2,3056,2,2,1,0,100,2002,Moreland,-37.7617,144.9642,Northern Metropolitan,11918
+145,Brunswick,14 Murdock St,3,h,976000,S,Jellis,14-05-2016,5.2,3056,3,2,1,240,162,2005,Moreland,-37.756,144.9587,Northern Metropolitan,11918
+146,Brunswick,8/2 Pottery Ct,3,t,641000,SP,RW,14-05-2016,5.2,3056,3,2,1,0,112,1900,Moreland,-37.7703,144.9533,Northern Metropolitan,11918
+147,Brunswick,157 Albion St,2,h,770000,S,Nelson,15-10-2016,5.2,3056,2,1,0,152,87,1910,Moreland,-37.7611,144.966,Northern Metropolitan,11918
+148,Brunswick,6/305 Albion St,1,u,279500,S,Walshe,15-10-2016,5.2,3056,1,1,1,0,51,1970,Moreland,-37.7597,144.9548,Northern Metropolitan,11918
+149,Brunswick,177 Barkly St,4,h,1800000,VB,Nelson,15-10-2016,5.2,3056,4,2,3,271,180,1900,Moreland,-37.7769,144.9691,Northern Metropolitan,11918
+150,Brunswick,30 Charles St,4,h,1350000,S,Nelson,15-10-2016,5.2,3056,4,1,1,370,151,1940,Moreland,-37.7728,144.9639,Northern Metropolitan,11918
+151,Brunswick,113 Glenlyon Rd,4,h,1320000,S,Nelson,15-10-2016,5.2,3056,4,2,1,281,156,1920,Moreland,-37.7722,144.9681,Northern Metropolitan,11918
+152,Brunswick,311 Albion St,3,h,825000,S,Nelson,16-04-2016,5.2,3056,3,1,1,210,130,1900,Moreland,-37.7597,144.9545,Northern Metropolitan,11918
+156,Brunswick,175 Edward St,3,h,1261000,S,Nelson,16-04-2016,5.2,3056,2,1,1,216,100,1910,Moreland,-37.7746,144.9697,Northern Metropolitan,11918
+157,Brunswick,84 Stewart St,3,h,1045000,S,Jellis,16-04-2016,5.2,3056,3,1,2,222,105,1890,Moreland,-37.7642,144.969,Northern Metropolitan,11918
+158,Brunswick,215/1 Dods St,3,u,1044000,S,Jellis,16-07-2016,5.2,3056,3,1,1,0,85,2000,Moreland,-37.773,144.9624,Northern Metropolitan,11918
+159,Brunswick,154 Brunswick Rd,3,h,1050000,SP,Nelson,17-09-2016,5.2,3056,3,1,1,239,126,1910,Moreland,-37.7776,144.963,Northern Metropolitan,11918
+160,Brunswick,2 Chambers St,3,h,1691500,S,Nelson,17-09-2016,5.2,3056,3,2,3,470,152,1920,Moreland,-37.7788,144.9688,Northern Metropolitan,11918
+161,Brunswick,54 Davies St,2,h,1075000,PI,Jellis,17-09-2016,5.2,3056,2,1,0,311,108,1930,Moreland,-37.7572,144.9687,Northern Metropolitan,11918
+163,Brunswick,23/10 Breese St,2,u,501000,S,Nelson,18-03-2017,5.2,3056,2,1,1,1140,80,2010,Moreland,-37.7634,144.9616,Northern Metropolitan,11918
+164,Brunswick,393A Brunswick Rd,3,h,1260000,S,Rendina,18-03-2017,5.2,3056,3,1,6,563,98,1960,Moreland,-37.7757,144.9505,Northern Metropolitan,11918
+166,Brunswick,52 Evans St,3,h,1650000,S,Nelson,18-03-2017,5.2,3056,3,1,2,495,141,1920,Moreland,-37.7702,144.9672,Northern Metropolitan,11918
+168,Brunswick,8/705 Park St,2,u,601000,S,Brad,18-03-2017,5.2,3056,2,1,1,0,57,1970,Moreland,-37.7778,144.9594,Northern Metropolitan,11918
+170,Brunswick,17 Sutherland St,2,h,1015000,S,Nelson,18-03-2017,5.2,3056,2,1,0,453,86,1920,Moreland,-37.762,144.9547,Northern Metropolitan,11918
+172,Brunswick,3 Ballarat St,1,t,625000,PI,Jellis,18-06-2016,5.2,3056,1,1,1,82,114,1930,Moreland,-37.7661,144.9614,Northern Metropolitan,11918
+173,Brunswick,5 Black St,3,h,1700000,S,Collins,18-06-2016,5.2,3056,3,2,1,0,195,1945,Moreland,-37.7763,144.9597,Northern Metropolitan,11918
+175,Brunswick,11/68 De Carle St,2,u,435000,SP,Jellis,18-06-2016,5.2,3056,2,1,1,0,57,1973,Moreland,-37.7597,144.9655,Northern Metropolitan,11918
+178,Brunswick,222 Barkly St,5,h,2500000,S,Jellis,19-11-2016,5.2,3056,5,2,2,555,266,1890,Moreland,-37.7767,144.9645,Northern Metropolitan,11918
+179,Brunswick,105 Dawson St,2,h,860000,PI,Jellis,19-11-2016,5.2,3056,2,1,1,298,88,1910,Moreland,-37.7704,144.9504,Northern Metropolitan,11918
+180,Brunswick,10/66 De Carle St,2,u,491000,S,Jellis,19-11-2016,5.2,3056,2,1,1,1080,66,1960,Moreland,-37.7598,144.9655,Northern Metropolitan,11918
+184,Brunswick,5 Hanover St,3,h,985000,S,Jellis,22-05-2016,5.2,3056,3,1,2,384,89,1940,Moreland,-37.7626,144.9535,Northern Metropolitan,11918
+185,Brunswick,64 Hanover St,3,h,1250000,S,Ray,22-05-2016,5.2,3056,3,1,1,483,162,1890,Moreland,-37.7602,144.9543,Northern Metropolitan,11918
+187,Brunswick,8/2 Pottery Ct,3,t,641000,SP,RW,22-05-2016,5.2,3056,3,2,1,0,112,1900,Moreland,-37.7703,144.9533,Northern Metropolitan,11918
+190,Brunswick,58 Cassels Rd,3,h,860000,S,Ray,22-08-2016,5.2,3056,3,1,1,184,104,1890,Moreland,-37.7563,144.96,Northern Metropolitan,11918
+196,Brunswick,35 Percy St,2,h,705000,S,Chambers,23-04-2016,5.2,3056,2,1,1,161,68,1910,Moreland,-37.7646,144.9586,Northern Metropolitan,11918
+199,Brunswick,270 Albion St,3,h,880000,S,Nelson,24-09-2016,5.2,3056,3,1,1,264,117,1915,Moreland,-37.7603,144.9573,Northern Metropolitan,11918
+201,Brunswick,2/18 De Carle St,2,t,754000,S,Nelson,24-09-2016,5.2,3056,2,2,1,177,105,2000,Moreland,-37.7625,144.9653,Northern Metropolitan,11918
+203,Brunswick,5/6 Pottery Ct,2,u,590000,S,Woodards,24-09-2016,5.2,3056,2,1,1,0,74,2004,Moreland,-37.7703,144.9533,Northern Metropolitan,11918
+204,Brunswick,2/6 Sydney Rd,2,u,575000,S,Nelson,24-09-2016,5.2,3056,2,1,1,0,66,1950,Moreland,-37.7775,144.9607,Northern Metropolitan,11918
+206,Brunswick,28 Frederick St,3,h,1510000,S,Nelson,25-02-2017,5.2,3056,3,1,0,325,150,1920,Moreland,-37.7621,144.9595,Northern Metropolitan,11918
+207,Brunswick,3/30 Heller St,2,t,801000,S,Jellis,25-02-2017,5.2,3056,2,2,1,156,87,2007,Moreland,-37.7744,144.9498,Northern Metropolitan,11918
+208,Brunswick,32 Lobb St,3,t,820000,SP,Jellis,25-02-2017,5.2,3056,3,2,2,4668,126,2011,Moreland,-37.7687,144.9649,Northern Metropolitan,11918
+209,Brunswick,10/285 Brunswick Rd,1,u,370000,S,Jellis,26-07-2016,5.2,3056,1,1,1,540,45,1970,Moreland,-37.7766,144.9574,Northern Metropolitan,11918
+210,Brunswick,4 Frederick St,3,h,1170000,S,Nelson,26-07-2016,5.2,3056,3,1,0,285,104,1890,Moreland,-37.7634,144.9593,Northern Metropolitan,11918
+211,Brunswick,4 Bell St,4,h,1790000,S,Ray,27-06-2016,5.2,3056,3,1,1,416,129,1920,Moreland,-37.7737,144.965,Northern Metropolitan,11918
+212,Brunswick,2/123 Brunswick Rd,3,t,640000,PI,Walshe,27-06-2016,5.2,3056,3,2,1,110,118,2000,Moreland,-37.7776,144.9691,Northern Metropolitan,11918
+214,Brunswick,36 Charles St,4,h,1875000,S,Jellis,27-06-2016,5.2,3056,4,2,2,657,207,1958,Moreland,-37.7725,144.964,Northern Metropolitan,11918
+215,Brunswick,7 Garnet St,3,h,1053000,S,Ray,27-06-2016,5.2,3056,3,1,1,343,1041,1925,Moreland,-37.7589,144.9529,Northern Metropolitan,11918
+217,Brunswick,11 William St,3,t,705000,PI,Nelson,27-06-2016,5.2,3056,2,1,1,55,111,2012,Moreland,-37.7611,144.9622,Northern Metropolitan,11918
+221,Brunswick,7 Hall St,4,h,1217000,S,Walshe,27-11-2016,5.2,3056,4,1,0,363,127,1920,Moreland,-37.7621,144.9506,Northern Metropolitan,11918
+222,Brunswick,7 Louisa St,3,h,1020000,SP,Jellis,27-11-2016,5.2,3056,3,1,3,308,119,1943,Moreland,-37.7649,144.9641,Northern Metropolitan,11918
+225,Brunswick,26 Warburton St,3,h,1340000,S,Nelson,27-11-2016,5.2,3056,3,1,1,316,132,1910,Moreland,-37.7741,144.9703,Northern Metropolitan,11918
+227,Brunswick,11 Denman St,4,h,1410000,PI,Jellis,28-05-2016,5.2,3056,4,2,1,460,214,1916,Moreland,-37.7554,144.9544,Northern Metropolitan,11918
+228,Brunswick,19 Horne St,3,h,1550000,S,Nelson,28-05-2016,5.2,3056,3,1,1,346,126,1900,Moreland,-37.7738,144.9695,Northern Metropolitan,11918
+229,Brunswick,30 Lobb St,3,h,740000,PI,Nelson,28-05-2016,5.2,3056,3,2,1,4676,122,2010,Moreland,-37.7687,144.9649,Northern Metropolitan,11918
+231,Brunswick,2/22 Saxon St,2,u,592500,S,Nelson,28-05-2016,5.2,3056,2,1,2,0,89,2002,Moreland,-37.7706,144.9608,Northern Metropolitan,11918
+233,Brunswick,11/6 Sydney Rd,1,u,370000,S,Nelson,28-05-2016,5.2,3056,1,1,1,0,54,1965,Moreland,-37.7775,144.9607,Northern Metropolitan,11918
+234,Brunswick,46 Tinning St,2,h,765000,S,Nelson,28-05-2016,5.2,3056,2,1,1,199,120,1880,Moreland,-37.759,144.9597,Northern Metropolitan,11918
+238,Brunswick,10 Cliff St,1,h,772000,SP,Collins,28-08-2016,5.2,3056,1,1,1,147,82,1890,Moreland,-37.7643,144.9584,Northern Metropolitan,11918
+239,Brunswick,69 Glenlyon Rd,3,h,1210000,S,Nelson,28-08-2016,5.2,3056,3,2,1,280,130,1890,Moreland,-37.7719,144.9661,Northern Metropolitan,11918
+240,Brunswick,25 Gray St,4,h,1755000,S,Jellis,28-08-2016,5.2,3056,4,2,1,354,199,1910,Moreland,-37.7745,144.9523,Northern Metropolitan,11918
+244,Brunswick,411 Barkly St,2,h,945000,S,Jellis,30-07-2016,5.2,3056,2,1,2,246,103,1910,Moreland,-37.775,144.9536,Northern Metropolitan,11918
+245,Brunswick,52 Talbot St,2,h,755000,S,Nelson,30-07-2016,5.2,3056,2,1,1,159,157,1930,Moreland,-37.7656,144.9562,Northern Metropolitan,11918
+246,Brunswick West,8/7 Passfield St,2,u,521500,S,Peter,03-09-2016,5.9,3055,2,1,1,0,69,1960,Moreland,-37.768,144.9408,Northern Metropolitan,7082
+248,Brunswick West,25 Wales St,3,h,1190000,S,Nelson,03-12-2016,5.9,3055,3,1,1,0,119,1920,Moreland,-37.7564,144.9422,Northern Metropolitan,7082
+250,Brunswick West,2/13 Walker St,2,u,471000,S,Jellis,04-03-2017,5.9,3055,2,1,1,564,60,1970,Moreland,-37.7665,144.9425,Northern Metropolitan,7082
+255,Brunswick West,1/455 Albion St,1,u,265000,PI,Walshe,07-05-2016,5.9,3055,1,1,1,0,42,2000,Moreland,-37.7586,144.9452,Northern Metropolitan,7082
+256,Brunswick West,64 Pearson St,3,h,955000,S,hockingstuart,07-05-2016,5.9,3055,3,1,0,220,93,1930,Moreland,-37.7659,144.9494,Northern Metropolitan,7082
+257,Brunswick West,497 Albion St,5,h,1350000,SP,Woodards,07-11-2016,5.9,3055,5,2,2,510,321,1997,Moreland,-37.7581,144.9414,Northern Metropolitan,7082
+258,Brunswick West,11/7 Egginton St,2,t,380000,VB,Nelson,07-11-2016,5.9,3055,2,1,1,0,85,1970,Moreland,-37.7607,144.9393,Northern Metropolitan,7082
+260,Brunswick West,12/881 Park St,1,u,300000,SP,Grantham,07-11-2016,5.9,3055,1,1,0,0,37,1960,Moreland,-37.7763,144.947,Northern Metropolitan,7082
+261,Brunswick West,10 Yarrabin St,3,h,810000,S,Brad,07-11-2016,5.9,3055,3,1,2,349,95,1950,Moreland,-37.7589,144.9368,Northern Metropolitan,7082
+265,Brunswick West,81 Melville Rd,3,h,793000,S,Ray,10-12-2016,5.9,3055,3,1,0,275,119,1935,Moreland,-37.763,144.9439,Northern Metropolitan,7082
+266,Brunswick West,6/524 Moreland Rd,2,u,400000,SP,Nelson,10-12-2016,5.9,3055,2,1,1,73,64,1960,Moreland,-37.7528,144.9368,Northern Metropolitan,7082
+267,Brunswick West,107/480 Albion St,2,u,400500,SP,Nelson,11-02-2017,5.9,3055,2,1,1,0,70,2013,Moreland,-37.7582,144.94,Northern Metropolitan,7082
+268,Brunswick West,1/572 Moreland Rd,3,t,797500,S,Nelson,11-02-2017,5.9,3055,3,2,2,262,155,2010,Moreland,-37.7519,144.9324,Northern Metropolitan,7082
+274,Brunswick West,121 Pearson St,3,h,1300000,PI,Jellis,12-11-2016,5.9,3055,3,1,2,364,135,1900,Moreland,-37.7618,144.9497,Northern Metropolitan,7082
+275,Brunswick West,81 Whitby St,3,h,1330000,S,Nelson,12-11-2016,5.9,3055,3,1,2,353,101,1930,Moreland,-37.764,144.9428,Northern Metropolitan,7082
+280,Brunswick West,2 Henderson St,7,h,1205000,S,Raine,15-10-2016,5.9,3055,7,3,1,447,287,1982,Moreland,-37.7634,144.9403,Northern Metropolitan,7082
+282,Brunswick West,4/42 Passfield St,2,u,380000,PI,Jellis,15-10-2016,5.9,3055,2,1,1,0,62,1970,Moreland,-37.7676,144.9394,Northern Metropolitan,7082
+283,Brunswick West,171 Union St,3,h,1095000,S,Nelson,15-10-2016,5.9,3055,3,1,1,411,168,1935,Moreland,-37.7728,144.9478,Northern Metropolitan,7082
+284,Brunswick West,2/243 Union St,2,t,680000,VB,Nelson,15-10-2016,5.9,3055,2,1,1,0,82,1970,Moreland,-37.772,144.9406,Northern Metropolitan,7082
+285,Brunswick West,201 Hope St,2,h,711000,S,Nelson,16-04-2016,5.9,3055,2,1,1,177,87,1910,Moreland,-37.7619,144.9412,Northern Metropolitan,7082
+288,Brunswick West,5/8 Murray St,2,u,500000,S,Brad,16-07-2016,5.9,3055,2,1,1,0,75,1970,Moreland,-37.7595,144.9436,Northern Metropolitan,7082
+290,Brunswick West,7/7 Allard St,2,u,385000,SP,Jellis,18-03-2017,5.9,3055,2,1,1,0,62,1970,Moreland,-37.7688,144.9421,Northern Metropolitan,7082
+292,Brunswick West,3/546 Moreland Rd,2,u,370000,S,Ray,18-03-2017,5.9,3055,2,1,1,2120,59,1960,Moreland,-37.7524,144.9347,Northern Metropolitan,7082
+293,Brunswick West,2/8 Walker St,1,u,320000,S,Jellis,18-06-2016,5.9,3055,1,1,1,0,43,1970,Moreland,-37.7661,144.9422,Northern Metropolitan,7082
+297,Brunswick West,9/39 Heller St,1,u,330000,S,hockingstuart/Advantage,22-05-2016,5.9,3055,1,1,1,0,42,1970,Moreland,-37.7748,144.9483,Northern Metropolitan,7082
+300,Brunswick West,542 Albion St,5,h,1200000,PI,Jellis,22-08-2016,5.9,3055,5,2,3,553,193,1920,Moreland,-37.7576,144.9348,Northern Metropolitan,7082
+301,Brunswick West,6/86 Heller St,2,u,537000,SP,Jellis,22-08-2016,5.9,3055,2,1,1,501,66,1960,Moreland,-37.7741,144.9449,Northern Metropolitan,7082
+302,Brunswick West,7 Morrow St,3,h,910000,S,Brad,22-08-2016,5.9,3055,3,1,2,717,141,1950,Moreland,-37.7525,144.9321,Northern Metropolitan,7082
+303,Brunswick West,8/48 Passfield St,1,u,285000,PI,Walshe,22-08-2016,5.9,3055,1,1,1,0,45,1970,Moreland,-37.7675,144.939,Northern Metropolitan,7082
+304,Brunswick West,9 Peacock St,4,h,921500,S,Ray,22-08-2016,5.9,3055,3,1,1,575,165,1930,Moreland,-37.7575,144.9402,Northern Metropolitan,7082
+307,Brunswick West,1 Jordan St,2,h,1315000,S,Nelson,24-09-2016,5.9,3055,2,1,2,554,116,1930,Moreland,-37.7715,144.9426,Northern Metropolitan,7082
+308,Brunswick West,8/109 Melville Rd,2,u,370000,VB,Nelson,24-09-2016,5.9,3055,2,1,1,0,65,1970,Moreland,-37.7606,144.9443,Northern Metropolitan,7082
+309,Brunswick West,1/464 Victoria St,2,t,735000,S,Jellis,24-09-2016,5.9,3055,2,1,2,120,109,2004,Moreland,-37.7659,144.9487,Northern Metropolitan,7082
+310,Brunswick West,15 Wallace St,4,h,1000000,S,Nelson,24-09-2016,5.9,3055,3,1,1,589,148,1935,Moreland,-37.7628,144.9459,Northern Metropolitan,7082
+311,Brunswick West,10/446 Albion St,1,u,252000,PI,McDonald,25-02-2017,5.9,3055,1,1,1,0,45,1970,Moreland,-37.7586,144.9433,Northern Metropolitan,7082
+314,Brunswick West,871 Park St,4,h,1700000,PI,Jellis,25-02-2017,5.9,3055,4,2,2,621,184,1920,Moreland,-37.7764,144.9479,Northern Metropolitan,7082
+315,Brunswick West,12 Hamilton St,2,h,820000,S,Jellis,26-07-2016,5.9,3055,3,1,1,206,98,1900,Moreland,-37.7604,144.9488,Northern Metropolitan,7082
+316,Brunswick West,7/5 Allard St,2,u,370000,VB,Jellis,27-06-2016,5.9,3055,2,1,1,0,65,1970,Moreland,-37.7686,144.9421,Northern Metropolitan,7082
+319,Brunswick West,1/30 McLean St,2,u,484000,S,Jellis,27-06-2016,5.9,3055,2,1,1,0,65,1950,Moreland,-37.7543,144.9385,Northern Metropolitan,7082
+320,Brunswick West,2/494 Victoria St,3,t,815000,S,Ray,27-06-2016,5.9,3055,3,1,2,157,123,1999,Moreland,-37.7652,144.9454,Northern Metropolitan,7082
+324,Brunswick West,53 Heller St,4,h,1150000,VB,Nelson,28-05-2016,5.9,3055,4,1,2,519,169,1910,Moreland,-37.7747,144.9474,Northern Metropolitan,7082
+327,Brunswick West,2/530 Victoria St,2,u,497000,S,Hodges,28-05-2016,5.9,3055,2,1,1,0,84,1977,Moreland,-37.7647,144.9412,Northern Metropolitan,7082
+329,Brunswick West,1/536 Albion St,2,h,440000,PI,Jellis,28-08-2016,5.9,3055,2,1,1,0,62,1960,Moreland,-37.7577,144.9354,Northern Metropolitan,7082
+330,Brunswick West,196 Melville Rd,2,h,816000,S,Nelson,28-08-2016,5.9,3055,3,2,1,343,115,1930,Moreland,-37.7552,144.9458,Northern Metropolitan,7082
+332,Brunswick West,16 Bakers Pde,4,h,970000,PI,Nelson,30-07-2016,5.9,3055,4,3,2,499,150,1925,Moreland,-37.7538,144.944,Northern Metropolitan,7082
+336,Carlton North,112 Newry St,4,h,1425000,S,Nelson,04-03-2017,3.2,3054,4,3,0,122,130,1890,Yarra,-37.7893,144.9696,Northern Metropolitan,3106
+339,Carlton North,989 Drummond St,3,h,2950000,SP,Chambers,07-05-2016,3.2,3054,3,1,2,499,164,1910,Yarra,-37.7811,144.9715,Northern Metropolitan,3106
+340,Carlton North,700 Rathdowne St,4,h,2175000,S,Woodards,07-05-2016,3.2,3054,3,1,0,418,163,1920,Yarra,-37.7808,144.9736,Northern Metropolitan,3106
+343,Carlton North,1 Fletcher La,2,h,800000,PI,Nelson,10-12-2016,3.2,3054,2,1,1,73,104,2009,Yarra,-37.7852,144.9719,Northern Metropolitan,3106
+345,Carlton North,967 Drummond St,4,h,2718000,S,Ray,11-03-2017,3.2,3054,4,2,0,538,142,2015,Yarra,-37.7816,144.9714,Northern Metropolitan,3106
+347,Carlton North,392 Station St,2,h,2400000,S,Kelly,12-11-2016,3.2,3054,1,2,0,413,172,1900,Yarra,-37.7875,144.9759,Northern Metropolitan,3106
+350,Carlton North,1018 Drummond St,4,h,2520000,S,Nelson,16-04-2016,3.2,3054,4,2,2,504,168,1890,Yarra,-37.7805,144.9721,Northern Metropolitan,3106
+355,Carlton North,75 Fenwick St,3,h,2050000,S,Nelson,18-03-2017,3.2,3054,3,2,0,84,148,1970,Yarra,-37.7879,144.9736,Northern Metropolitan,3106
+358,Carlton North,292 Amess St,4,h,1950000,S,Nelson,22-05-2016,3.2,3054,4,2,2,207,162,1900,Yarra,-37.7804,144.9748,Northern Metropolitan,3106
+360,Carlton North,14/1102 Lygon St,1,u,437000,S,Nelson,24-09-2016,3.2,3054,1,1,1,0,56,1970,Yarra,-37.7798,144.9707,Northern Metropolitan,3106
+362,Carlton North,4 Mary St,2,u,520000,VB,Nelson,24-09-2016,3.2,3054,2,1,1,0,86,1940,Yarra,-37.7813,144.9773,Northern Metropolitan,3106
+365,Carlton North,24/635 Drummond St,2,u,570000,S,hockingstuart,27-06-2016,3.2,3054,2,1,1,0,76,1975,Yarra,-37.7902,144.97,Northern Metropolitan,3106
+368,Clifton Hill,66 Noone St,2,h,780000,S,Harrington,04-06-2016,3.4,3068,2,1,1,155,85,1880,Yarra,-37.7934,144.9922,Northern Metropolitan,2954
+369,Clifton Hill,13 Caroline St,3,h,1060000,S,Nelson,07-11-2016,3.4,3068,3,1,0,193,98,1900,Yarra,-37.7899,144.9984,Northern Metropolitan,2954
+370,Clifton Hill,3/68 Noone St,3,t,930000,S,Collins,07-11-2016,3.4,3068,3,2,1,124,116,2000,Yarra,-37.7934,144.9923,Northern Metropolitan,2954
+372,Clifton Hill,119 Roseneath St,2,h,1075000,S,Nelson,08-10-2016,3.4,3068,2,1,1,174,85,1890,Yarra,-37.7928,144.9987,Northern Metropolitan,2954
+373,Clifton Hill,85 Roseneath St,2,h,1105000,S,Harrington,08-10-2016,3.4,3068,2,1,1,185,84,1910,Yarra,-37.7927,144.9981,Northern Metropolitan,2954
+374,Clifton Hill,413a Wellington St,2,h,1209000,S,Jellis,08-10-2016,3.4,3068,2,1,1,140,97,1910,Yarra,-37.7919,144.9884,Northern Metropolitan,2954
+375,Clifton Hill,32 Caroline St,4,h,3010000,S,Collins,10-09-2016,3.4,3068,4,3,2,382,250,1903,Yarra,-37.7897,144.9992,Northern Metropolitan,2954
+376,Clifton Hill,17 Myrtle St,2,h,1435000,S,Nelson,10-09-2016,3.4,3068,2,1,2,239,96,1900,Yarra,-37.7918,144.997,Northern Metropolitan,2954
+378,Clifton Hill,40 Myrtle St,2,h,1290000,S,Jellis,10-12-2016,3.4,3068,2,1,0,164,99,1890,Yarra,-37.7912,144.9967,Northern Metropolitan,2954
+380,Clifton Hill,3/30 Edmund St,2,u,495000,S,iTRAK,13-08-2016,3.4,3068,2,1,1,515,50,1970,Yarra,-37.7875,145.0049,Northern Metropolitan,2954
+382,Clifton Hill,11 Page St,3,h,1370000,S,Collins,13-08-2016,3.4,3068,3,2,1,176,135,1890,Yarra,-37.7921,144.9898,Northern Metropolitan,2954
+388,Clifton Hill,31 Fenwick St,2,h,1450000,VB,Nelson,18-03-2017,3.4,3068,2,1,0,156,107,1890,Yarra,-37.7892,144.9999,Northern Metropolitan,2954
+391,Clifton Hill,7/37 Groom St,2,u,885500,S,Collins,18-06-2016,3.4,3068,2,2,2,0,136,2005,Yarra,-37.7937,144.9983,Northern Metropolitan,2954
+394,Clifton Hill,18 Barries Pl,3,t,825000,SP,Jellis,24-09-2016,3.4,3068,3,3,1,67,119,2010,Yarra,-37.7946,144.9989,Northern Metropolitan,2954
+397,Clifton Hill,1/1 Marshall Pl,4,h,1506000,S,Nelson,25-02-2017,3.4,3068,4,2,0,162,169,1995,Yarra,-37.7885,144.9994,Northern Metropolitan,2954
+400,Clifton Hill,3 Hodgkinson St,3,h,1360000,S,Nelson,27-06-2016,3.4,3068,3,1,0,118,118,1880,Yarra,-37.7921,144.9858,Northern Metropolitan,2954
+406,Coburg,29 Molesworth St,2,h,850000,SP,Brad,03-09-2016,7.8,3058,2,1,1,371,93,1930,Moreland,-37.735,144.9589,Northern Metropolitan,11204
+407,Coburg,10 Shackell St,3,h,784000,S,Nelson,03-09-2016,7.8,3058,2,1,1,286,110,1890,Moreland,-37.7427,144.952,Northern Metropolitan,11204
+409,Coburg,37 Elizabeth St,3,h,680000,S,Nelson,03-12-2016,7.8,3058,3,1,0,702,108,1950,Moreland,-37.7391,144.9812,Northern Metropolitan,11204
+411,Coburg,1/58 Moore St,2,t,807000,S,Nelson,03-12-2016,7.8,3058,2,2,1,0,176,2010,Moreland,-37.7546,144.9713,Northern Metropolitan,11204
+415,Coburg,8 Watchtower Rd,3,h,675000,PI,Walshe,04-02-2016,7.8,3058,3,1,2,142,123,2005,Moreland,-37.7382,144.973,Northern Metropolitan,11204
+418,Coburg,3 Mavis St,3,h,1202000,S,Nelson,04-03-2017,7.8,3058,3,2,2,423,140,1940,Moreland,-37.7493,144.9559,Northern Metropolitan,11204
+419,Coburg,243 Moreland Rd,3,h,1370000,S,Ray,04-03-2017,7.8,3058,3,1,1,233,180,1890,Moreland,-37.7549,144.9611,Northern Metropolitan,11204
+421,Coburg,45 Portland St,3,h,1000000,VB,Jellis,04-03-2017,7.8,3058,3,2,3,370,110,1920,Moreland,-37.744,144.9501,Northern Metropolitan,11204
+424,Coburg,171 Moreland Rd,4,h,145000,PI,Jellis,04-06-2016,7.8,3058,3,1,1,536,164,1910,Moreland,-37.7555,144.9658,Northern Metropolitan,11204
+426,Coburg,33 Wellington St,3,h,860000,S,Peter,04-06-2016,7.8,3058,3,1,1,283,109,1915,Moreland,-37.7416,144.9582,Northern Metropolitan,11204
+427,Coburg,16 Linda St,2,h,953000,S,Jellis,06-08-2016,7.8,3058,2,1,1,170,101,1890,Moreland,-37.7508,144.9608,Northern Metropolitan,11204
+428,Coburg,6 Shackell St,2,h,735000,SP,Nelson,06-08-2016,7.8,3058,2,1,1,280,93,1900,Moreland,-37.7429,144.952,Northern Metropolitan,11204
+432,Coburg,27 Higinbotham St,3,h,947000,S,Brad,07-11-2016,7.8,3058,3,1,1,372,125,1920,Moreland,-37.735,144.9581,Northern Metropolitan,11204
+433,Coburg,2/6 McKay St,2,u,500000,SP,Jellis,07-11-2016,7.8,3058,2,1,1,0,74,1970,Moreland,-37.7405,144.9644,Northern Metropolitan,11204
+435,Coburg,7/13 Clarendon St,2,u,466000,S,Nelson,08-10-2016,7.8,3058,2,1,1,0,62,1980,Moreland,-37.7527,144.9522,Northern Metropolitan,11204
+436,Coburg,3/58 Moore St,3,t,740000,VB,Nelson,08-10-2016,7.8,3058,3,2,1,255,164,2014,Moreland,-37.7546,144.9713,Northern Metropolitan,11204
+437,Coburg,105 Moreland Rd,3,h,812000,S,Nicholson,08-10-2016,7.8,3058,3,1,1,370,130,1930,Moreland,-37.7561,144.9718,Northern Metropolitan,11204
+438,Coburg,107 Moreland Rd,3,h,766000,S,Nicholson,08-10-2016,7.8,3058,3,1,0,378,124,1930,Moreland,-37.7561,144.9716,Northern Metropolitan,11204
+439,Coburg,109 Moreland Rd,3,h,825000,S,Nicholson,08-10-2016,7.8,3058,2,1,1,374,118,1910,Moreland,-37.7561,144.9715,Northern Metropolitan,11204
+440,Coburg,2 Quarry Cct,4,h,1131000,S,Nelson,08-10-2016,7.8,3058,4,2,2,494,300,2001,Moreland,-37.7359,144.9711,Northern Metropolitan,11204
+441,Coburg,114 Reynard St,3,h,1064000,SP,Nelson,08-10-2016,7.8,3058,3,2,1,417,178,1940,Moreland,-37.7478,144.9583,Northern Metropolitan,11204
+443,Coburg,60 Glengyle St,3,h,1210000,S,Nelson,10-09-2016,7.8,3058,3,1,1,379,125,1925,Moreland,-37.7544,144.9764,Northern Metropolitan,11204
+444,Coburg,8/6 McKay St,2,u,434000,S,Nelson,10-09-2016,7.8,3058,2,1,1,0,80,1965,Moreland,-37.7405,144.9644,Northern Metropolitan,11204
+445,Coburg,4/44 Victoria St,2,u,653000,SP,Peter,10-09-2016,7.8,3058,2,1,1,129,107,2012,Moreland,-37.7422,144.9606,Northern Metropolitan,11204
+446,Coburg,2/118 Bruce St,3,t,640000,S,Nelson,10-12-2016,7.8,3058,3,1,2,119,109,1995,Moreland,-37.7403,144.9491,Northern Metropolitan,11204
+453,Coburg,41 Service St,3,h,1130000,SP,Re,12-11-2016,7.8,3058,3,1,2,735,127,1920,Moreland,-37.7379,144.9623,Northern Metropolitan,11204
+456,Coburg,1e The Avenue,3,h,763000,S,Woodards,14-05-2016,7.8,3058,3,2,1,107,110,1994,Moreland,-37.7517,144.963,Northern Metropolitan,11204
+457,Coburg,53 Hawthorn St,2,h,903000,S,Nelson,15-10-2016,7.8,3058,2,1,1,253,94,1910,Moreland,-37.7484,144.9521,Northern Metropolitan,11204
+458,Coburg,4 Miller St,3,h,1000000,S,Nelson,15-10-2016,7.8,3058,3,1,1,431,117,1970,Moreland,-37.75,144.9695,Northern Metropolitan,11204
+459,Coburg,13 Shaftsbury St,4,h,1742000,SP,Nelson,15-10-2016,7.8,3058,3,2,4,482,256,2006,Moreland,-37.7529,144.9534,Northern Metropolitan,11204
+460,Coburg,12 Gordon St,4,h,865000,S,Brad,16-04-2016,7.8,3058,4,1,1,452,125,1925,Moreland,-37.7525,144.948,Northern Metropolitan,11204
+461,Coburg,11/5 Industry La,2,u,485000,VB,Nelson,16-04-2016,7.8,3058,2,2,1,0,96,1880,Moreland,-37.7367,144.9701,Northern Metropolitan,11204
+463,Coburg,23 Berry St,3,h,1278000,S,Peter,16-07-2016,7.8,3058,3,2,3,405,156,1930,Moreland,-37.7464,144.959,Northern Metropolitan,11204
+464,Coburg,4/93 Harding St,3,t,590000,VB,Ray,17-09-2016,7.8,3058,3,2,2,0,109,2013,Moreland,-37.7458,144.9751,Northern Metropolitan,11204
+468,Coburg,19 Audley St,4,h,1136000,S,Ray,18-03-2017,7.8,3058,4,3,1,420,146,1920,Moreland,-37.7501,144.962,Northern Metropolitan,11204
+469,Coburg,13 Carron St,2,t,635000,S,Ray,18-03-2017,7.8,3058,2,1,1,97,95,2014,Moreland,-37.7516,144.9623,Northern Metropolitan,11204
+477,Coburg,203 Munro St,4,h,1400000,S,RE,18-06-2016,7.8,3058,4,1,1,856,189,1970,Moreland,-37.7432,144.9481,Northern Metropolitan,11204
+480,Coburg,8 Gilbert St,3,h,1260000,S,Jellis,19-11-2016,7.8,3058,3,2,0,407,230,1930,Moreland,-37.7471,144.9579,Northern Metropolitan,11204
+482,Coburg,52 Stawell St,3,h,841000,S,Re,19-11-2016,7.8,3058,3,1,3,385,98,1920,Moreland,-37.734,144.9603,Northern Metropolitan,11204
+483,Coburg,4/2 Vincent St,2,u,537500,S,Nelson,19-11-2016,7.8,3058,2,1,1,0,73,1975,Moreland,-37.7435,144.9563,Northern Metropolitan,11204
+486,Coburg,5/39 Service St,2,t,598000,S,Nelson,22-08-2016,7.8,3058,2,1,1,108,100,2007,Moreland,-37.7379,144.9617,Northern Metropolitan,11204
+487,Coburg,2 Walsh St,3,h,1120000,S,Raine,22-08-2016,7.8,3058,3,2,1,293,180,2006,Moreland,-37.7481,144.9663,Northern Metropolitan,11204
+488,Coburg,24 Webb St,3,h,870000,S,Nelson,22-08-2016,7.8,3058,3,1,1,371,100,1980,Moreland,-37.735,144.9558,Northern Metropolitan,11204
+489,Coburg,27 Bruce St,3,h,680000,PI,Raine,23-04-2016,7.8,3058,2,1,2,462,72,1920,Moreland,-37.7448,144.9478,Northern Metropolitan,11204
+492,Coburg,155 Nicholson St,3,h,825000,S,Ray,23-04-2016,7.8,3058,3,1,2,577,131,1920,Moreland,-37.7459,144.9773,Northern Metropolitan,11204
+493,Coburg,11 Station St,3,h,725000,S,Brad,23-04-2016,7.8,3058,3,1,0,238,131,1900,Moreland,-37.7539,144.9612,Northern Metropolitan,11204
+494,Coburg,144 The Avenue,4,h,1250000,VB,Nelson,23-04-2016,7.8,3058,4,3,1,515,249,1900,Moreland,-37.7537,144.9766,Northern Metropolitan,11204
+495,Coburg,2 Franklin St,2,h,1008000,S,Jellis,24-09-2016,7.8,3058,2,1,3,457,89,1940,Moreland,-37.7505,144.9725,Northern Metropolitan,11204
+499,Coburg,1 Shaftsbury St,4,h,990000,SP,Grantham,24-09-2016,7.8,3058,4,1,1,488,142,1930,Moreland,-37.7537,144.9532,Northern Metropolitan,11204
+500,Coburg,3/30 Shaftsbury St,2,u,451000,S,RT,24-09-2016,7.8,3058,2,1,1,0,72,1970,Moreland,-37.752,144.954,Northern Metropolitan,11204
+501,Coburg,211 Bell St,2,h,635000,S,Brad,25-02-2017,7.8,3058,2,2,3,339,149,1920,Moreland,-37.7404,144.9559,Northern Metropolitan,11204
+502,Coburg,15 Hardwick St,5,h,1020000,PI,Raine,25-02-2017,7.8,3058,5,2,4,381,286,1985,Moreland,-37.7492,144.969,Northern Metropolitan,11204
+504,Coburg,32A Kelson St,3,h,1025000,VB,Jellis,25-02-2017,7.8,3058,3,1,3,336,112,1950,Moreland,-37.7408,144.9558,Northern Metropolitan,11204
+505,Coburg,37 Kelson St,3,h,700000,SP,Brad,25-02-2017,7.8,3058,3,1,1,138,102,2000,Moreland,-37.7406,144.9555,Northern Metropolitan,11204
+506,Coburg,48 Murray St,3,h,1130000,S,Nelson,25-02-2017,7.8,3058,3,1,3,206,80,1945,Moreland,-37.7382,144.9563,Northern Metropolitan,11204
+508,Coburg,212 Reynard St,4,h,1075000,S,Hodges,25-02-2017,7.8,3058,4,1,4,531,187,1925,Moreland,-37.7473,144.9528,Northern Metropolitan,11204
+510,Coburg,2/618 Sydney Rd,3,t,600000,S,Brad,25-02-2017,7.8,3058,3,1,1,102,95,1976,Moreland,-37.736,144.9665,Northern Metropolitan,11204
+513,Coburg,14 Rose St,4,h,1150000,PI,Peter,26-07-2016,7.8,3058,4,2,2,43,205,1930,Moreland,-37.7456,144.9469,Northern Metropolitan,11204
+515,Coburg,3/19 Chandos St,2,u,515000,S,Ray,27-06-2016,7.8,3058,2,1,2,0,70,1970,Moreland,-37.7474,144.9608,Northern Metropolitan,11204
+517,Coburg,5/228 Reynard St,2,h,472000,S,Nelson,27-06-2016,7.8,3058,2,1,1,500,69,1975,Moreland,-37.747,144.9515,Northern Metropolitan,11204
+518,Coburg,32 Rose St,2,h,901000,S,Peter,27-06-2016,7.8,3058,2,1,1,545,107,1940,Moreland,-37.7445,144.9471,Northern Metropolitan,11204
+520,Coburg,1/51 The Grove,2,h,605000,S,Jellis,27-06-2016,7.8,3058,2,1,1,0,13,1969,Moreland,-37.7519,144.9721,Northern Metropolitan,11204
+521,Coburg,3/117 Gordon St,3,t,687000,S,Nelson,27-11-2016,7.8,3058,3,1,1,116,140,1995,Moreland,-37.7454,144.9487,Northern Metropolitan,11204
+522,Coburg,100 Reynard St,4,h,975000,PI,Re,27-11-2016,7.8,3058,4,2,2,307,203,1996,Moreland,-37.748,144.9602,Northern Metropolitan,11204
+526,Coburg,9 Beckley St,3,h,1370000,S,Nelson,28-05-2016,7.8,3058,3,1,1,563,130,1930,Moreland,-37.7493,144.978,Northern Metropolitan,11204
+527,Coburg,265 Bell St,2,h,700000,VB,Nelson,28-05-2016,7.8,3058,2,1,2,381,92,1925,Moreland,-37.74,144.9516,Northern Metropolitan,11204
+528,Coburg,2/44 Berry St,3,t,810000,S,Nelson,28-05-2016,7.8,3058,3,2,1,213,131,2010,Moreland,-37.7461,144.9584,Northern Metropolitan,11204
+530,Coburg,13 Kaye Ct,4,h,838000,S,Jellis,28-05-2016,7.8,3058,4,1,1,576,147,1960,Moreland,-37.7369,144.9637,Northern Metropolitan,11204
+532,Coburg,5 Saunders St,4,h,1150000,PI,Nelson,28-05-2016,7.8,3058,4,1,2,633,164,1990,Moreland,-37.7531,144.9504,Northern Metropolitan,11204
+533,Coburg,6 Younger St,4,h,931000,SP,Brad,28-05-2016,7.8,3058,3,1,1,412,160,1920,Moreland,-37.7432,144.9768,Northern Metropolitan,11204
+534,Coburg,10/23 Baxter St,1,u,241000,S,Nelson,28-08-2016,7.8,3058,1,1,1,0,62,1976,Moreland,-37.7463,144.9635,Northern Metropolitan,11204
+537,Coburg,29 Hardwick St,2,h,981000,S,Nelson,28-08-2016,7.8,3058,2,1,1,263,114,1910,Moreland,-37.7493,144.97,Northern Metropolitan,11204
+538,Coburg,18 Industry La,2,t,570000,S,Peter,28-08-2016,7.8,3058,2,1,1,0,86,1900,Moreland,-37.7367,144.9701,Northern Metropolitan,11204
+539,Coburg,1/38 Victoria St,2,h,500000,S,Nelson,28-08-2016,7.8,3058,2,1,1,113,70,1970,Moreland,-37.7424,144.961,Northern Metropolitan,11204
+547,Coburg North,15 Ronald St,3,h,655000,SP,hockingstuart,03-12-2016,9.2,3058,3,1,0,404,98,1950,Moreland,-37.7305,144.9803,Northern Metropolitan,3445
+548,Coburg North,3/1 Headley St,3,t,631000,S,McGrath,04-03-2017,9.2,3058,3,1,1,178,120,2012,Moreland,-37.7297,144.9645,Northern Metropolitan,3445
+549,Coburg North,5/1 Headley St,2,t,600000,S,McGrath,04-03-2017,9.2,3058,2,1,1,145,105,2010,Moreland,-37.7295,144.9641,Northern Metropolitan,3445
+551,Coburg North,4 Pixel Cct,3,h,715000,SP,hockingstuart,04-03-2017,9.2,3058,3,2,2,173,120,2010,Moreland,-37.7308,144.9832,Northern Metropolitan,3445
+554,Coburg North,27 McMahons Rd,3,h,864000,S,Nelson,04-06-2016,9.2,3058,3,1,2,565,115,1950,Moreland,-37.7283,144.969,Northern Metropolitan,3445
+556,Coburg North,7 Manly Ct,3,h,700000,S,Nelson,07-05-2016,9.2,3058,3,1,2,626,108,1950,Moreland,-37.7201,144.9696,Northern Metropolitan,3445
+559,Coburg North,2b Rollo St,2,t,591000,S,Nelson,07-11-2016,9.2,3058,2,1,1,0,86,2008,Moreland,-37.721,144.9527,Northern Metropolitan,3445
+560,Coburg North,17 Mathieson St,3,h,860000,S,Nelson,08-10-2016,9.2,3058,2,1,3,586,145,1950,Moreland,-37.7205,144.9659,Northern Metropolitan,3445
+562,Coburg North,4 Sharp Gr,2,h,765000,S,Love,08-10-2016,9.2,3058,2,1,2,563,116,1925,Moreland,-37.723,144.96,Northern Metropolitan,3445
+564,Coburg North,13 Pixel Cct,3,h,625000,S,Nelson,10-09-2016,9.2,3058,3,1,2,104,138,2014,Moreland,-37.7307,144.9826,Northern Metropolitan,3445
+566,Coburg North,1 Boyne St,2,h,745000,SP,Raine,10-12-2016,9.2,3058,2,1,3,526,90,1940,Moreland,-37.732,144.9832,Northern Metropolitan,3445
+567,Coburg North,19A Tilley St,4,h,1050000,PI,Jellis,10-12-2016,9.2,3058,4,3,2,501,258,2016,Moreland,-37.7266,144.9823,Northern Metropolitan,3445
+569,Coburg North,17 Convent Ct,2,h,935000,S,First,12-11-2016,9.2,3058,2,1,2,833,107,1960,Moreland,-37.7297,144.9654,Northern Metropolitan,3445
+571,Coburg North,1 McDonnell Rd,2,h,820000,SP,Nelson,12-11-2016,9.2,3058,2,1,4,629,120,1960,Moreland,-37.7276,144.9688,Northern Metropolitan,3445
+572,Coburg North,5 Rollo St,3,h,780000,S,Nelson,12-11-2016,9.2,3058,3,1,2,307,96,1950,Moreland,-37.7215,144.9533,Northern Metropolitan,3445
+574,Coburg North,25 Williams Rd,3,h,707000,S,Brad,13-08-2016,9.2,3058,3,2,3,556,129,1950,Moreland,-37.7305,144.9605,Northern Metropolitan,3445
+586,Coburg North,127 Elizabeth St,3,h,637000,S,Brad,18-06-2016,9.2,3058,3,1,4,498,97,1950,Moreland,-37.7323,144.9833,Northern Metropolitan,3445
+587,Coburg North,143 Elizabeth St,4,h,950000,S,hockingstuart,18-06-2016,9.2,3058,4,2,2,298,231,2013,Moreland,-37.7308,144.9836,Northern Metropolitan,3445
+590,Coburg North,3 Golf Rd,3,h,860000,PI,Jellis,19-11-2016,9.2,3058,3,2,3,472,134,1970,Moreland,-37.734,144.9728,Northern Metropolitan,3445
+591,Coburg North,27 Snapshot Dr,5,h,1172000,S,Ray,19-11-2016,9.2,3058,5,3,2,425,37,2014,Moreland,-37.7302,144.9816,Northern Metropolitan,3445
+596,Coburg North,64 Elizabeth St,3,h,650000,SP,Barry,25-02-2017,9.2,3058,3,1,1,407,95,1930,Darebin,-37.7351,144.9833,Northern Metropolitan,3445
+597,Coburg North,24 Norris St,4,h,792000,SP,Jellis,26-07-2016,9.2,3058,4,2,1,320,131,1950,Moreland,-37.7242,144.9612,Northern Metropolitan,3445
+598,Coburg North,45 Shorts Rd,3,h,720000,S,Nelson,26-07-2016,9.2,3058,3,1,2,499,105,1970,Moreland,-37.7236,144.9576,Northern Metropolitan,3445
+599,Coburg North,2 Carr St,3,h,970000,S,Jellis,27-11-2016,9.2,3058,3,1,2,575,129,1960,Moreland,-37.7307,144.9704,Northern Metropolitan,3445
+602,Collingwood,130 Keele St,2,h,890000,S,LITTLE,03-09-2016,1.6,3066,2,1,1,178,70,1900,Yarra,-37.7974,144.9915,Northern Metropolitan,4553
+603,Collingwood,10/79 Oxford St,2,u,1260000,S,Jellis,03-09-2016,1.6,3066,2,1,1,0,129,1900,Yarra,-37.8042,144.9845,Northern Metropolitan,4553
+604,Collingwood,2/79 Oxford St,2,u,855000,S,Nelson,03-09-2016,1.6,3066,2,1,1,2886,122,1830,Yarra,-37.8042,144.9845,Northern Metropolitan,4553
+608,Collingwood,15/18 Islington St,3,t,1125000,SP,Nelson,04-03-2017,1.6,3066,3,2,2,0,151,2000,Yarra,-37.8083,144.9908,Northern Metropolitan,4553
+610,Collingwood,6/78 Oxford St,2,u,910000,S,Jellis,04-03-2017,1.6,3066,2,1,1,0,97,1880,Yarra,-37.8035,144.985,Northern Metropolitan,4553
+611,Collingwood,9/22 Stanley St,1,u,452000,SP,Jellis,04-03-2017,1.6,3066,1,1,1,816,53,2000,Yarra,-37.802,144.9848,Northern Metropolitan,4553
+613,Collingwood,110/3 Hoddle St,1,u,415000,SP,Biggin,07-11-2016,1.6,3066,1,1,1,3701,62,2005,Yarra,-37.809,144.9911,Northern Metropolitan,4553
+615,Collingwood,307/11 Hoddle St,1,u,372000,SP,Woodards,08-10-2016,1.6,3066,1,1,1,0,65,2005,Yarra,-37.809,144.9911,Northern Metropolitan,4553
+616,Collingwood,5/77 Little Oxford St,3,u,1326000,S,Nelson,08-10-2016,1.6,3066,3,2,1,0,190,2013,Yarra,-37.8032,144.9842,Northern Metropolitan,4553
+619,Collingwood,1/79 Oxford St,2,h,1230000,S,Jellis,11-02-2017,1.6,3066,2,2,1,0,153,1920,Yarra,-37.8042,144.9845,Northern Metropolitan,4553
+620,Collingwood,382 Wellington St,2,h,855000,S,Jellis,12-11-2016,1.6,3066,2,1,0,130,80,1890,Yarra,-37.7953,144.9882,Northern Metropolitan,4553
+621,Collingwood,4/13 Alexander St,1,u,457000,S,Jellis,13-08-2016,1.6,3066,1,1,1,406,49,1970,Yarra,-37.796,144.9911,Northern Metropolitan,4553
+623,Collingwood,1/60 Budd St,3,t,897500,S,Jellis,14-05-2016,1.6,3066,3,2,1,82,82,1995,Yarra,-37.7961,144.9873,Northern Metropolitan,4553
+625,Collingwood,82 Sackville St,2,h,1265000,S,Jellis,14-05-2016,1.6,3066,3,1,1,282,112,1920,Yarra,-37.7985,144.9883,Northern Metropolitan,4553
+627,Collingwood,84 Budd St,3,h,1075000,S,hockingstuart,16-04-2016,1.6,3066,3,1,0,183,104,1880,Yarra,-37.7948,144.9875,Northern Metropolitan,4553
+629,Collingwood,2/13 Alexander St,1,u,366000,S,Woodards,16-07-2016,1.6,3066,1,1,1,0,44,1970,Yarra,-37.796,144.9911,Northern Metropolitan,4553
+631,Collingwood,6 Forest St,2,h,981000,S,Jellis,17-09-2016,1.6,3066,2,1,0,188,107,1900,Yarra,-37.7964,144.9923,Northern Metropolitan,4553
+632,Collingwood,10/76 Oxford St,2,u,683000,S,Biggin,17-09-2016,1.6,3066,2,1,1,0,92,1900,Yarra,-37.8035,144.985,Northern Metropolitan,4553
+637,Collingwood,5 Charlotte St,2,h,1000000,SP,Peter,19-11-2016,1.6,3066,2,1,2,159,86,1880,Yarra,-37.7962,144.9887,Northern Metropolitan,4553
+639,Collingwood,2/60 Budd St,3,t,887500,S,Peter,22-05-2016,1.6,3066,3,2,1,81,82,2000,Yarra,-37.7961,144.9874,Northern Metropolitan,4553
+641,Collingwood,10/30 Mater St,2,u,713500,S,Jellis,22-08-2016,1.6,3066,2,2,1,1060,88,2010,Yarra,-37.7954,144.9868,Northern Metropolitan,4553
+642,Collingwood,8/79 Oxford St,3,u,1500000,S,Jellis,22-08-2016,1.6,3066,2,2,2,0,159,1920,Yarra,-37.8042,144.9845,Northern Metropolitan,4553
+643,Collingwood,5/61 Little Oxford St,2,u,672000,S,Jellis,24-09-2016,1.6,3066,2,1,1,0,60,2002,Yarra,-37.8046,144.984,Northern Metropolitan,4553
+645,Collingwood,8/115 Oxford St,2,u,800000,VB,Nelson,25-02-2017,1.6,3066,2,1,1,0,91,1900,Yarra,-37.8026,144.9848,Northern Metropolitan,4553
+646,Collingwood,12/120 Cambridge St,2,u,1645000,S,Nelson,28-05-2016,1.6,3066,4,1,3,0,2,1890,Yarra,-37.8046,144.9858,Northern Metropolitan,4553
+648,Collingwood,29/78 Oxford St,2,u,860000,PI,Jellis,30-07-2016,1.6,3066,2,2,1,0,114,1920,Yarra,-37.8035,144.985,Northern Metropolitan,4553
+649,Fairfield,150 Gillies St,3,h,1250000,VB,Jellis,03-09-2016,5.8,3078,3,2,0,327,144,1910,Darebin,-37.7723,145.0179,Northern Metropolitan,2970
+650,Fairfield,7 Rathmines St,3,h,1350000,PI,McGrath,03-12-2016,5.8,3078,3,1,2,309,110,2000,Darebin,-37.7828,145.0154,Northern Metropolitan,2970
+654,Fairfield,229 Rathmines St,2,h,1220000,S,Jellis,07-05-2016,5.8,3078,2,1,2,537,92,1950,Darebin,-37.7689,145.0177,Northern Metropolitan,2970
+655,Fairfield,197 Station St,4,h,1160000,PI,Nelson,07-05-2016,5.8,3078,4,2,1,381,145,1890,Darebin,-37.7735,145.0192,Northern Metropolitan,2970
+656,Fairfield,2/115 Gillies St,2,u,505000,PI,Nelson,07-11-2016,5.8,3078,2,1,1,0,70,1970,Darebin,-37.7755,145.0178,Northern Metropolitan,2970
+657,Fairfield,20/262 Heidelberg Rd,2,u,602000,S,Jellis,07-11-2016,5.8,3078,2,1,1,0,77,2013,Yarra,-37.7845,145.0105,Northern Metropolitan,2970
+658,Fairfield,3/260 Rathmines St,3,t,846000,SP,Love,08-10-2016,5.8,3078,3,1,1,185,107,1990,Darebin,-37.7665,145.0175,Northern Metropolitan,2970
+659,Fairfield,7/223 Station St,2,u,400000,VB,Nelson,10-09-2016,5.8,3078,2,1,1,0,68,1970,Darebin,-37.7719,145.0195,Northern Metropolitan,2970
+661,Fairfield,7/59 Rathmines St,2,u,445000,S,Nelson,10-12-2016,5.8,3078,2,1,1,0,56,1970,Darebin,-37.7782,145.0162,Northern Metropolitan,2970
+663,Fairfield,88 Perry St,4,h,1730000,S,Jellis,15-10-2016,5.8,3078,4,2,2,490,226,2007,Darebin,-37.7749,145.0242,Northern Metropolitan,2970
+667,Fairfield,1/72 Rathmines St,2,u,510000,S,hockingstuart,18-03-2017,5.8,3078,2,1,1,1658,68,1970,Darebin,-37.7781,145.0157,Northern Metropolitan,2970
+671,Fairfield,52 Rayment St,3,h,1350000,VB,Nelson,19-11-2016,5.8,3078,3,1,4,553,109,1930,Darebin,-37.7728,145.0214,Northern Metropolitan,2970
+672,Fairfield,254 Rathmines St,4,h,2000000,VB,Nelson,22-05-2016,5.8,3078,4,3,2,575,280,2015,Darebin,-37.7671,145.0176,Northern Metropolitan,2970
+675,Fairfield,4/224 Arthur St,2,t,805000,S,McGrath,24-09-2016,5.8,3078,2,1,1,140,2,2008,Darebin,-37.7697,145.0203,Northern Metropolitan,2970
+676,Fairfield,225 Gillies St,3,h,1055000,S,Collins,27-06-2016,5.8,3078,3,1,2,382,140,1950,Darebin,-37.7696,145.0188,Northern Metropolitan,2970
+677,Fairfield,15/262 Heidelberg Rd,2,u,548000,SP,Nelson,27-06-2016,5.8,3078,2,1,1,0,68,2014,Yarra,-37.7845,145.0105,Northern Metropolitan,2970
+678,Fairfield,189 Rathmines St,3,h,1500000,S,McGrath,27-11-2016,5.8,3078,3,1,1,0,126,1910,Darebin,-37.7714,145.0173,Northern Metropolitan,2970
+679,Fairfield,1/203 Station St,2,u,600000,VB,Jellis,27-11-2016,5.8,3078,2,1,2,0,75,1970,Darebin,-37.7732,145.0193,Northern Metropolitan,2970
+682,Fairfield,1/240 Arthur St,2,u,545000,SP,McGrath,28-08-2016,5.8,3078,2,1,1,0,77,2002,Darebin,-37.7682,145.0209,Northern Metropolitan,2970
+684,Fairfield,147 Gillies St,3,h,1375000,S,McGrath,28-08-2016,5.8,3078,3,1,1,496,122,1910,Darebin,-37.7737,145.018,Northern Metropolitan,2970
+686,Fitzroy,3/18 Hanover St,3,h,1252000,S,Nelson,03-09-2016,1.6,3065,3,2,2,0,137,2004,Yarra,-37.8029,144.975,Northern Metropolitan,5825
+687,Fitzroy,4/113 Cecil St,2,u,810000,S,Jellis,06-08-2016,1.6,3065,2,1,2,0,71,1965,Yarra,-37.7941,144.9802,Northern Metropolitan,5825
+690,Fitzroy,199 Moor St,1,h,947500,S,Nelson,07-11-2016,1.6,3065,1,1,0,87,66,1980,Yarra,-37.8019,144.9821,Northern Metropolitan,5825
+691,Fitzroy,291 George St,2,h,1460000,PI,Nelson,12-11-2016,1.6,3065,2,1,0,0,105,1890,Yarra,-37.8006,144.9814,Northern Metropolitan,5825
+693,Fitzroy,7/56 Leicester St,2,t,880000,S,Nelson,13-08-2016,1.6,3065,2,2,2,0,105,2000,Yarra,-37.7953,144.9775,Northern Metropolitan,5825
+694,Fitzroy,52 Nicholson St,4,h,3310000,S,Caine,13-08-2016,1.6,3065,4,4,2,337,291,1854,Yarra,-37.8052,144.9739,Northern Metropolitan,5825
+698,Fitzroy,431 George St,3,h,1250000,PI,Nelson,17-09-2016,1.6,3065,3,1,1,113,105,1890,Yarra,-37.7966,144.9821,Northern Metropolitan,5825
+701,Fitzroy,31 Bell St,4,h,1950000,S,Nelson,18-06-2016,1.6,3065,4,1,0,177,152,1890,Yarra,-37.7999,144.9759,Northern Metropolitan,5825
+705,Fitzroy,113/300 Young St,1,u,465000,SP,Jellis,19-11-2016,1.6,3065,1,1,1,0,52,2011,Yarra,-37.7974,144.9799,Northern Metropolitan,5825
+706,Fitzroy,60 Bell St,4,h,1620000,S,Nelson,22-05-2016,1.6,3065,3,2,1,132,165,1880,Yarra,-37.8004,144.9768,Northern Metropolitan,5825
+708,Fitzroy,10/5 St David St,3,u,850000,VB,Nelson,22-05-2016,1.6,3065,3,2,1,2782,115,2000,Yarra,-37.8005,144.9787,Northern Metropolitan,5825
+710,Fitzroy,84 Kerr St,2,h,1122000,S,Nelson,22-08-2016,1.6,3065,2,1,0,106,101,1890,Yarra,-37.7968,144.9781,Northern Metropolitan,5825
+712,Fitzroy,107 Cecil St,2,h,1300000,S,Nelson,24-09-2016,1.6,3065,2,1,1,157,110,1900,Yarra,-37.7941,144.98,Northern Metropolitan,5825
+714,Fitzroy,8/98 George St,1,u,420000,S,Caine,25-02-2017,1.6,3065,1,1,1,782,42,1975,Yarra,-37.8055,144.9809,Northern Metropolitan,5825
+715,Fitzroy,101/416 Gore St,2,u,715000,S,Nelson,26-07-2016,1.6,3065,2,1,1,0,74,1900,Yarra,-37.7967,144.9836,Northern Metropolitan,5825
+717,Fitzroy,116 Leicester St,2,h,800000,VB,Harrington,27-06-2016,1.6,3065,2,2,1,64,138,1995,Yarra,-37.7956,144.9804,Northern Metropolitan,5825
+718,Fitzroy,9/56 Leicester St,2,t,710000,S,Jellis,27-06-2016,1.6,3065,2,1,1,0,90,2002,Yarra,-37.7953,144.9775,Northern Metropolitan,5825
+719,Fitzroy,6/226 Moor St,2,u,630000,VB,hockingstuart,27-06-2016,1.6,3065,2,1,1,0,70,2007,Yarra,-37.8024,144.9835,Northern Metropolitan,5825
+720,Fitzroy,17 Bell St,4,h,4011000,S,Nelson,27-11-2016,1.6,3065,4,3,2,286,275,1890,Yarra,-37.7999,144.9755,Northern Metropolitan,5825
+722,Fitzroy North,233/4 Bik La,2,u,700000,SP,Woodards,03-09-2016,3.5,3068,2,2,1,4332,85,2010,Yarra,-37.7846,144.9785,Northern Metropolitan,6244
+723,Fitzroy North,470 Brunswick St,2,h,860000,S,Woodards,03-09-2016,3.5,3068,2,1,0,104,70,1880,Yarra,-37.7927,144.9796,Northern Metropolitan,6244
+724,Fitzroy North,50 Freeman St,2,h,870000,S,Nelson,03-09-2016,3.5,3068,2,1,0,107,64,1910,Yarra,-37.7898,144.9794,Northern Metropolitan,6244
+726,Fitzroy North,2 Pilkington St,4,h,1450000,VB,Nelson,03-09-2016,3.5,3068,4,2,1,266,175,1950,Yarra,-37.7797,144.9861,Northern Metropolitan,6244
+731,Fitzroy North,7/14 Rae St,1,u,358500,SP,Jellis,04-03-2017,3.5,3068,1,1,1,0,40,1975,Yarra,-37.7925,144.9786,Northern Metropolitan,6244
+733,Fitzroy North,51 Rae St,2,h,770000,SA,Nicholson,04-06-2016,3.5,3068,2,2,1,134,151,1905,Yarra,-37.7916,144.9784,Northern Metropolitan,6244
+734,Fitzroy North,92 Scotchmer St,2,h,1008000,S,LITTLE,06-08-2016,3.5,3068,2,1,1,150,77,1890,Yarra,-37.7833,144.9819,Northern Metropolitan,6244
+735,Fitzroy North,5/35 Jamieson St,3,t,1015000,S,Collins,08-10-2016,3.5,3068,3,2,1,112,145,2000,Yarra,-37.7912,144.9825,Northern Metropolitan,6244
+736,Fitzroy North,780 Brunswick St,3,h,1371000,S,Nelson,10-09-2016,3.5,3068,2,1,1,197,128,1900,Yarra,-37.7835,144.9816,Northern Metropolitan,6244
+740,Fitzroy North,201A Clauscen St,3,h,1286000,S,Holland,10-12-2016,3.5,3068,3,1,0,275,116,1915,Yarra,-37.7779,144.9862,Northern Metropolitan,6244
+743,Fitzroy North,26 Scotchmer St,3,t,1600000,VB,Jellis,10-12-2016,3.5,3068,3,3,1,188,129,2000,Yarra,-37.7829,144.9788,Northern Metropolitan,6244
+747,Fitzroy North,74 Barkly St,4,h,1950000,S,Nelson,14-05-2016,3.5,3068,4,2,2,233,216,1890,Yarra,-37.7786,144.9818,Northern Metropolitan,6244
+748,Fitzroy North,79 Delbridge St,4,h,3400000,S,Nelson,14-05-2016,3.5,3068,3,2,1,445,175,1890,Yarra,-37.786,144.9864,Northern Metropolitan,6244
+749,Fitzroy North,70 Park St,4,h,1785000,S,Nelson,14-05-2016,3.5,3068,4,2,1,188,165,1900,Yarra,-37.7815,144.9869,Northern Metropolitan,6244
+751,Fitzroy North,2 Scotchmer St,2,h,1210000,S,Nelson,15-10-2016,3.5,3068,2,1,1,223,118,1885,Yarra,-37.7829,144.9782,Northern Metropolitan,6244
+752,Fitzroy North,111 Best St,3,h,1275000,SP,Nelson,16-04-2016,3.5,3068,3,2,1,104,110,1890,Yarra,-37.7813,144.9834,Northern Metropolitan,6244
+756,Fitzroy North,35 Birkenhead St,2,h,1290000,S,Chambers,18-03-2017,3.5,3068,2,1,0,136,92,1890,Yarra,-37.7819,144.9824,Northern Metropolitan,6244
+757,Fitzroy North,8/3 Miller St,2,t,750000,S,Woodards,18-03-2017,3.5,3068,2,2,2,0,95,2002,Yarra,-37.7761,144.9792,Northern Metropolitan,6244
+759,Fitzroy North,23/86 Queens Pde,2,u,675000,SP,Nelson,18-03-2017,3.5,3068,2,1,2,0,92,2010,Yarra,-37.7918,144.9824,Northern Metropolitan,6244
+760,Fitzroy North,44 Reid St,4,t,1700000,VB,Jellis,18-03-2017,3.5,3068,4,3,2,127,209,2008,Yarra,-37.7855,144.9789,Northern Metropolitan,6244
+763,Fitzroy North,3 Curtain Pl,3,t,1080000,S,Jellis,19-11-2016,3.5,3068,3,2,1,77,133,2016,Yarra,-37.7923,144.9776,Northern Metropolitan,6244
+765,Fitzroy North,273 Glenlyon Rd,2,h,1222500,S,Chambers,19-11-2016,3.5,3068,2,1,2,487,105,1940,Moreland,-37.7737,144.9822,Northern Metropolitan,6244
+770,Fitzroy North,181 Rae St,2,h,937500,S,Jellis,23-04-2016,3.5,3068,2,1,0,100,72,1890,Yarra,-37.788,144.9791,Northern Metropolitan,6244
+773,Fitzroy North,191 Scotchmer St,3,h,1300000,VB,Nelson,26-07-2016,3.5,3068,3,1,1,203,110,1890,Yarra,-37.7834,144.9862,Northern Metropolitan,6244
+776,Fitzroy North,717 Brunswick St,3,h,1300000,S,Collins,27-11-2016,3.5,3068,3,2,0,127,135,1890,Yarra,-37.7851,144.9809,Northern Metropolitan,6244
+778,Fitzroy North,205 Scotchmer St,3,h,2150000,S,Nelson,27-11-2016,3.5,3068,3,2,0,202,307,1898,Yarra,-37.7835,144.9867,Northern Metropolitan,6244
+781,Fitzroy North,168 Scotchmer St,3,h,1581000,S,Jellis,28-05-2016,3.5,3068,3,1,0,193,132,1910,Yarra,-37.7836,144.985,Northern Metropolitan,6244
+782,Fitzroy North,12/262 Barkly St,2,u,602000,S,Nelson,28-08-2016,3.5,3068,2,1,1,0,48,1980,Yarra,-37.7794,144.989,Northern Metropolitan,6244
+783,Fitzroy North,5/118 Miller St,2,h,650000,PI,Nelson,28-08-2016,3.5,3068,2,1,1,0,75,1980,Yarra,-37.777,144.9838,Northern Metropolitan,6244
+785,Fitzroy North,55 Seacombe St,3,h,1450000,S,Nelson,28-08-2016,3.5,3068,3,2,1,118,103,1905,Yarra,-37.7839,144.9807,Northern Metropolitan,6244
+788,Flemington,3/39 Dover St,2,u,365000,PI,Rendina,03-12-2016,4.4,3031,2,1,1,0,60,1970,Moonee Valley,-37.7833,144.9255,Northern Metropolitan,3593
+791,Flemington,8/39 Dover St,2,u,425000,SP,Hodges,04-03-2017,4.4,3031,2,1,1,0,63,1970,Moonee Valley,-37.7833,144.9255,Northern Metropolitan,3593
+795,Flemington,1/15 Dartford St,2,u,391000,S,Nelson,08-10-2016,4.4,3031,2,1,1,0,59,1970,Moonee Valley,-37.7825,144.9239,Northern Metropolitan,3593
+797,Flemington,11 Finsbury St,3,h,1130000,S,Nelson,08-10-2016,4.4,3031,3,1,0,294,140,1900,Moonee Valley,-37.7856,144.9292,Northern Metropolitan,3593
+798,Flemington,43 Finsbury St,3,h,1110000,PI,Nelson,08-10-2016,4.4,3031,3,1,1,272,131,1885,Moonee Valley,-37.7857,144.931,Northern Metropolitan,3593
+800,Flemington,107 Shields St,2,h,918000,S,Nelson,10-09-2016,4.4,3031,2,1,0,136,78,1900,Moonee Valley,-37.7839,144.9343,Northern Metropolitan,3593
+801,Flemington,59 Victoria St,2,h,730000,SP,Nelson,10-09-2016,4.4,3031,2,1,1,140,98,1890,Moonee Valley,-37.7867,144.9342,Northern Metropolitan,3593
+803,Flemington,21 Wisewould St,2,h,855000,SP,Nelson,10-12-2016,4.4,3031,2,1,0,225,85,1930,Moonee Valley,-37.7849,144.9197,Northern Metropolitan,3593
+807,Flemington,61 Canterbury St,3,h,1012000,S,Australian,13-08-2016,4.4,3031,3,1,1,212,102,1930,Moonee Valley,-37.7818,144.9247,Northern Metropolitan,3593
+812,Flemington,3/39 Dover St,2,u,395000,PI,Rendina,15-10-2016,4.4,3031,2,1,1,0,60,1970,Moonee Valley,-37.7833,144.9255,Northern Metropolitan,3593
+816,Flemington,12/132 Princes St,2,u,556000,S,Woodards,16-07-2016,4.4,3031,2,2,1,0,79,2009,Moonee Valley,-37.784,144.9356,Northern Metropolitan,3593
+818,Flemington,5/60 Farnham St,1,u,345000,SP,Nelson,18-06-2016,4.4,3031,1,1,1,0,46,1970,Moonee Valley,-37.7826,144.9311,Northern Metropolitan,3593
+819,Flemington,29 Finsbury St,3,h,1100000,VB,Nelson,18-06-2016,4.4,3031,3,2,0,179,150,1900,Moonee Valley,-37.7857,144.9305,Northern Metropolitan,3593
+823,Flemington,8/300 Racecourse Rd,1,u,395000,SP,Nelson,25-02-2017,4.4,3031,1,1,1,818,50,1880,Moonee Valley,-37.788,144.9306,Northern Metropolitan,3593
+826,Flemington,4 Farnham St,3,h,1115000,S,Nelson,27-11-2016,4.4,3031,3,1,1,244,84,1940,Moonee Valley,-37.7823,144.9278,Northern Metropolitan,3593
+827,Flemington,5/121 Wellington St,2,u,420500,S,Jellis,28-05-2016,4.4,3031,2,1,1,0,52,1970,Moonee Valley,-37.783,144.932,Northern Metropolitan,3593
+829,Glenroy,89 John St,3,h,610000,S,Ray,03-09-2016,13,3046,3,1,2,696,118,1960,Moreland,-37.6972,144.9431,Northern Metropolitan,8870
+834,Glenroy,55 Daley St,3,h,610000,S,Walshe,03-12-2016,13,3046,3,1,3,640,144,1960,Moreland,-37.6979,144.9335,Northern Metropolitan,8870
+838,Glenroy,39 Morley St,3,h,806500,S,Barry,03-12-2016,13,3046,3,1,2,766,127,1965,Moreland,-37.6988,144.9372,Northern Metropolitan,8870
+844,Glenroy,2 Roy St,4,h,550000,VB,Peter,04-03-2017,13,3046,4,2,1,683,138,2017,Moreland,-37.6964,144.9314,Northern Metropolitan,8870
+845,Glenroy,42 Sadie St,3,h,822000,S,Stockdale,04-03-2017,13,3046,3,1,4,700,105,1950,Moreland,-37.6988,144.9438,Northern Metropolitan,8870
+846,Glenroy,15 Stanley St,3,h,980000,SP,Brad,04-03-2017,13,3046,3,2,3,1029,136,1950,Moreland,-37.7115,144.9147,Northern Metropolitan,8870
+851,Glenroy,3/27 Harold St,2,u,430000,PI,Jason,06-08-2016,13,3046,2,1,1,164,100,2010,Moreland,-37.7072,144.9252,Northern Metropolitan,8870
+854,Glenroy,1c Barwon St,2,h,540000,VB,Nelson,07-05-2016,13,3046,2,1,1,164,114,2010,Moreland,-37.7082,144.9178,Northern Metropolitan,8870
+860,Glenroy,1 Gordon Ct,3,h,737000,S,Stockdale,08-10-2016,13,3046,3,1,4,640,97,1950,Moreland,-37.6986,144.9243,Northern Metropolitan,8870
+863,Glenroy,24a Morell St,3,h,460000,SP,Raine,08-10-2016,13,3046,3,2,2,224,3,1950,Moreland,-37.702,144.9507,Northern Metropolitan,8870
+870,Glenroy,3/28 Stanley St,3,t,545000,S,Barry,10-09-2016,13,3046,3,2,1,136,130,2014,Moreland,-37.7112,144.9142,Northern Metropolitan,8870
+872,Glenroy,30 Bourchier St,3,h,670000,PI,Brad,10-12-2016,13,3046,3,1,4,734,140,1960,Moreland,-37.7007,144.9378,Northern Metropolitan,8870
+874,Glenroy,6 Dromana St,4,h,702000,S,Eview,10-12-2016,13,3046,4,1,4,606,124,1956,Moreland,-37.7104,144.9088,Northern Metropolitan,8870
+875,Glenroy,137 Glenroy Rd,2,h,730000,S,Barry,10-12-2016,13,3046,2,1,1,705,115,1950,Moreland,-37.706,144.9245,Northern Metropolitan,8870
+879,Glenroy,24 Trevannion St,3,h,711500,S,Stockdale,10-12-2016,13,3046,3,1,3,667,81,1950,Moreland,-37.7005,144.9185,Northern Metropolitan,8870
+881,Glenroy,45 Cosmos St,5,h,810000,S,Stockdale,11-03-2017,13,3046,5,4,4,695,176,1950,Moreland,-37.7028,144.9377,Northern Metropolitan,8870
+884,Glenroy,9/11 Currajong St,2,u,250000,SP,Barry,12-11-2016,13,3046,2,1,1,0,61,1970,Moreland,-37.711,144.9178,Northern Metropolitan,8870
+885,Glenroy,1/1 Danae St,3,t,460000,S,Eview,12-11-2016,13,3046,3,1,1,325,106,1970,Moreland,-37.7001,144.9291,Northern Metropolitan,8870
+888,Glenroy,24 Sadie St,3,h,793000,S,Eview,12-11-2016,13,3046,3,1,2,780,120,1960,Moreland,-37.7,144.9427,Northern Metropolitan,8870
+889,Glenroy,7/89 Station Rd,2,u,340000,S,Nelson,12-11-2016,13,3046,2,1,1,0,74,1970,Moreland,-37.7071,144.9176,Northern Metropolitan,8870
+894,Glenroy,149 Augustine Tce,3,h,447500,S,Melbourne,15-10-2016,13,3046,3,1,1,320,130,2000,Moreland,-37.6949,144.9122,Northern Metropolitan,8870
+895,Glenroy,45 Fran St,3,h,588000,S,YPA,15-10-2016,13,3046,3,1,1,616,125,1960,Moreland,-37.7029,144.9053,Northern Metropolitan,8870
+897,Glenroy,1/25 Morell St,3,h,420000,PI,Raine,15-10-2016,13,3046,3,1,2,0,96,1960,Moreland,-37.7025,144.9504,Northern Metropolitan,8870
+898,Glenroy,2/22 Sadie St,2,u,410000,SP,Brad,15-10-2016,13,3046,2,1,2,200,81,2000,Moreland,-37.7002,144.9428,Northern Metropolitan,8870
+903,Glenroy,40 View St,3,h,525000,S,Brad,16-04-2016,13,3046,3,1,1,665,85,1950,Moreland,-37.6966,144.9331,Northern Metropolitan,8870
+905,Glenroy,10 Anselm Gr,3,h,703000,S,Eview,17-09-2016,13,3046,3,1,4,704,102,1960,Moreland,-37.7021,144.9136,Northern Metropolitan,8870
+906,Glenroy,1/112 Cardinal Rd,4,t,608000,S,Raine,17-09-2016,13,3046,3,2,1,252,150,2014,Moreland,-37.7006,144.9299,Northern Metropolitan,8870
+914,Glenroy,2/36 Prospect St,4,t,607000,S,YPA,18-03-2017,13,3046,4,3,2,0,131,2014,Moreland,-37.7102,144.9112,Northern Metropolitan,8870
+915,Glenroy,139 John St,3,h,765500,S,Barry,18-06-2016,13,3046,3,2,2,780,180,1970,Moreland,-37.6955,144.9389,Northern Metropolitan,8870
+920,Glenroy,2/709 Pascoe Vale Rd,3,u,470000,SP,Barry,18-06-2016,13,3046,3,1,2,187,99,2014,Moreland,-37.7098,144.9163,Northern Metropolitan,8870
+924,Glenroy,48 Everard St,3,h,580000,S,Barry,19-11-2016,13,3046,3,1,2,650,142,1960,Moreland,-37.7002,144.9408,Northern Metropolitan,8870
+927,Glenroy,1/38 Stanley St,2,u,620250,S,Stockdale,19-11-2016,13,3046,2,1,2,253,91,2012,Moreland,-37.7117,144.9135,Northern Metropolitan,8870
+929,Glenroy,128 Widford St,3,h,710000,S,Stockdale,19-11-2016,13,3046,3,1,1,796,104,1960,Moreland,-37.6955,144.9253,Northern Metropolitan,8870
+930,Glenroy,54 Cromwell St,4,h,630000,S,Stockdale,22-05-2016,13,3046,3,1,2,630,130,1960,Moreland,-37.7002,144.9232,Northern Metropolitan,8870
+933,Glenroy,106 Outlook Dr,3,h,600000,S,Stockdale,22-05-2016,13,3046,3,1,4,541,139,1968,Moreland,-37.7051,144.9069,Northern Metropolitan,8870
+935,Glenroy,1/7 Harold St,3,t,550000,SP,Stockdale,22-08-2016,13,3046,3,2,2,212,129,2010,Moreland,-37.7073,144.9277,Northern Metropolitan,8870
+938,Glenroy,46 Moonee Bvd,4,h,600000,SP,Stockdale,23-04-2016,13,3046,4,1,2,586,159,1968,Moreland,-37.6975,144.9065,Northern Metropolitan,8870
+940,Glenroy,47 Cardinal Rd,4,h,1217500,S,Barry,24-09-2016,13,3046,4,3,2,693,192,2014,Moreland,-37.7111,144.9275,Northern Metropolitan,8870
+941,Glenroy,135 Hilton St,3,h,600000,SP,Barry,24-09-2016,13,3046,3,1,2,599,150,1960,Moreland,-37.7009,144.9291,Northern Metropolitan,8870
+944,Glenroy,29 Moonee Bvd,3,h,570000,PI,Barry,24-09-2016,13,3046,3,2,2,585,146,1975,Moreland,-37.6977,144.9071,Northern Metropolitan,8870
+948,Glenroy,65 Farview St,3,h,762700,SP,Stockdale,25-02-2017,13,3046,3,1,4,597,100,1960,Moreland,-37.7097,144.9351,Northern Metropolitan,8870
+949,Glenroy,3/27 Gladstone Pde,2,u,465000,S,YPA,25-02-2017,13,3046,2,1,1,176,89,2012,Moreland,-37.7081,144.912,Northern Metropolitan,8870
+950,Glenroy,52 Glenroy Rd,2,h,741250,S,Barry,25-02-2017,13,3046,2,1,1,668,88,1955,Moreland,-37.7067,144.9331,Northern Metropolitan,8870
+957,Glenroy,107 Glenroy Rd,4,h,1000000,PI,Barry,27-11-2016,13,3046,4,2,8,977,304,1935,Moreland,-37.7063,144.9273,Northern Metropolitan,8870
+959,Glenroy,165 Hilton St,4,h,630000,S,Stockdale,27-11-2016,13,3046,4,2,2,602,180,1950,Moreland,-37.7005,144.9258,Northern Metropolitan,8870
+962,Glenroy,72 Pecham St,3,h,670000,S,Barry,27-11-2016,13,3046,3,1,3,705,135,1950,Moreland,-37.6967,144.9116,Northern Metropolitan,8870
+963,Glenroy,3/48 William St,2,h,417000,S,Stockdale,27-11-2016,13,3046,2,1,1,172,77,2013,Moreland,-37.7074,144.9086,Northern Metropolitan,8870
+964,Glenroy,1/26 York St,3,t,600000,VB,Nelson,27-11-2016,13,3046,3,1,2,258,143,2001,Moreland,-37.7047,144.9087,Northern Metropolitan,8870
+966,Glenroy,3/132 Widford St,3,t,440000,SP,Nelson,28-05-2016,13,3046,3,2,1,215,121,2010,Moreland,-37.6952,144.9256,Northern Metropolitan,8870
+968,Glenroy,23 Cromwell St,3,h,660000,S,Barry,28-08-2016,13,3046,3,1,2,657,116,1950,Moreland,-37.7019,144.9225,Northern Metropolitan,8870
+974,Glenroy,2/4 Ash Ct,2,h,270000,PI,Ray,30-07-2016,13,3046,2,1,1,155,155,2000,Moreland,-37.6972,144.9239,Northern Metropolitan,8870
+975,Glenroy,44 Morley St,4,h,825000,S,Stockdale,30-07-2016,13,3046,4,2,4,768,194,1970,Moreland,-37.6979,144.9377,Northern Metropolitan,8870
+977,Glenroy,33 View St,4,h,638000,S,Barry,30-07-2016,13,3046,4,2,1,624,258,2005,Moreland,-37.6969,144.9334,Northern Metropolitan,8870
+978,Hadfield,20 Bedford St,3,h,605000,PI,hockingstuart,03-09-2016,12.1,3046,3,1,2,597,116,1960,Moreland,-37.711,144.9478,Northern Metropolitan,2606
+980,Hadfield,29 Sutherland St,3,h,685500,SP,Brad,03-09-2016,12.1,3046,3,1,2,724,103,1970,Moreland,-37.7076,144.9481,Northern Metropolitan,2606
+981,Hadfield,2 Knole St,2,h,610000,S,Eview,03-12-2016,12.1,3046,2,1,1,394,98,1950,Moreland,-37.7153,144.9507,Northern Metropolitan,2606
+982,Hadfield,8 Sherwood St,3,h,630000,S,YPA,03-12-2016,12.1,3046,3,1,1,604,112,1970,Moreland,-37.7124,144.9514,Northern Metropolitan,2606
+983,Hadfield,4 Surrey St,4,h,870000,S,Barry,03-12-2016,12.1,3046,4,3,5,591,268,2010,Moreland,-37.7127,144.9489,Northern Metropolitan,2606
+984,Hadfield,26 South St,3,h,810000,S,Holland,04-03-2017,12.1,3046,3,2,2,592,129,1950,Moreland,-37.7149,144.9473,Northern Metropolitan,2606
+992,Hadfield,2/3 Surrey St,2,u,487000,SP,Peter,10-09-2016,12.1,3046,2,1,2,198,96,2010,Moreland,-37.7132,144.9488,Northern Metropolitan,2606
+993,Hadfield,115 West St,4,h,700000,S,Barry,10-09-2016,12.1,3046,2,2,2,700,168,1950,Moreland,-37.7056,144.9384,Northern Metropolitan,2606
+994,Hadfield,148 West St,4,h,600500,S,YPA,10-09-2016,12.1,3046,4,2,1,462,161,1970,Moreland,-37.7062,144.9387,Northern Metropolitan,2606
+995,Hadfield,27 Middle St,3,h,730000,S,Barry,10-12-2016,12.1,3046,3,1,2,570,134,1970,Moreland,-37.7106,144.9491,Northern Metropolitan,2606
+996,Hadfield,75 West St,3,h,800000,S,Stockdale,10-12-2016,12.1,3046,3,2,2,565,116,1960,Moreland,-37.7094,144.9377,Northern Metropolitan,2606
+998,Hadfield,24 South St,3,t,750000,S,Stockdale,12-06-2016,12.1,3046,3,2,2,301,251,2011,Moreland,-37.715,144.9475,Northern Metropolitan,2606
+999,Hadfield,40 Angus St,3,h,740000,S,Barry,12-11-2016,12.1,3046,3,1,1,568,115,1960,Moreland,-37.7077,144.9438,Northern Metropolitan,2606
+1001,Hadfield,9 South St,3,h,646000,S,YPA,12-11-2016,12.1,3046,3,1,2,574,106,1970,Moreland,-37.7157,144.9507,Northern Metropolitan,2606
+1002,Hadfield,1/32 Sutherland St,3,h,545000,S,Raine,12-11-2016,12.1,3046,3,2,3,230,113,2000,Moreland,-37.7073,144.9486,Northern Metropolitan,2606
+1004,Hadfield,1 Barunah St,4,h,777000,S,Eview,13-08-2016,12.1,3046,3,1,2,700,176,1960,Moreland,-37.704,144.9399,Northern Metropolitan,2606
+1006,Hadfield,101 Middle St,2,h,722000,S,Stockdale,13-08-2016,12.1,3046,3,3,1,580,103,1950,Moreland,-37.7098,144.9424,Northern Metropolitan,2606
+1007,Hadfield,23 Surrey St,2,h,545000,SP,Stockdale,14-05-2016,12.1,3046,2,1,3,591,102,1960,Moreland,-37.7128,144.9471,Northern Metropolitan,2606
+1010,Hadfield,1/22 Volga St,3,t,510000,PI,Raine,16-04-2016,12.1,3046,3,2,2,234,115,2012,Moreland,-37.707,144.9411,Northern Metropolitan,2606
+1012,Hadfield,24 Talbot St,3,h,631500,S,Stockdale,18-06-2016,12.1,3046,4,1,3,593,95,1965,Moreland,-37.7133,144.947,Northern Metropolitan,2606
+1015,Hadfield,19 Barbara St,3,h,550000,SP,Brad,22-05-2016,12.1,3046,3,1,3,610,142,1960,Moreland,-37.7107,144.9419,Northern Metropolitan,2606
+1016,Hadfield,100 South St,2,h,330000,VB,Stockdale,22-05-2016,12.1,3046,2,1,1,249,2,1970,Moreland,-37.714,144.939,Northern Metropolitan,2606
+1020,Hadfield,92 West St,2,h,715888,S,Barry,25-02-2017,12.1,3046,2,1,1,613,92,1960,Moreland,-37.7099,144.938,Northern Metropolitan,2606
+1022,Hadfield,2/22 Volga St,2,t,468000,S,Nelson,26-07-2016,12.1,3046,2,1,1,137,110,2012,Moreland,-37.707,144.9413,Northern Metropolitan,2606
+1025,Hadfield,25 East St,2,h,515000,S,D'Aprano,27-11-2016,12.1,3046,2,1,2,345,79,1990,Moreland,-37.7128,144.9496,Northern Metropolitan,2606
+1030,Kensington,65 Gatehouse Dr,3,h,852000,S,Nelson,03-09-2016,4.2,3031,3,1,1,166,138,2000,Melbourne,-37.7929,144.9197,Northern Metropolitan,5263
+1031,Kensington,35 Henry St,3,h,1037000,S,Rendina,03-09-2016,4.2,3031,3,1,1,188,106,1910,Melbourne,-37.7953,144.9275,Northern Metropolitan,5263
+1033,Kensington,14 Hardiman St,3,h,1470000,S,Nelson,04-03-2017,4.2,3031,3,1,1,199,121,1910,Melbourne,-37.7957,144.932,Northern Metropolitan,5263
+1036,Kensington,403/72 Altona St,2,u,492500,S,Pagan,04-06-2016,4.2,3031,2,1,1,0,81,2008,Melbourne,-37.7974,144.9261,Northern Metropolitan,5263
+1037,Kensington,2/65 Bayswater Rd,2,u,420000,VB,Alexkarbon,04-06-2016,4.2,3031,2,1,1,0,55,1970,Melbourne,-37.794,144.923,Northern Metropolitan,5263
+1042,Kensington,1/16 Mawbey St,2,u,420000,SP,Nelson,06-08-2016,4.2,3031,2,1,1,0,80,2002,Melbourne,-37.7899,144.9231,Northern Metropolitan,5263
+1046,Kensington,72 Bayswater Rd,3,h,1271000,S,Edward,07-05-2016,4.2,3031,3,1,1,284,113,1900,Melbourne,-37.7938,144.9228,Northern Metropolitan,5263
+1047,Kensington,67 Collett St,3,h,1010000,PI,Edward,07-05-2016,4.2,3031,3,1,0,234,104,1900,Melbourne,-37.7923,144.9332,Northern Metropolitan,5263
+1048,Kensington,4/130 Kensington Rd,2,t,750000,S,Rendina,07-05-2016,4.2,3031,2,1,1,325,112,2002,Melbourne,-37.7976,144.9213,Northern Metropolitan,5263
+1052,Kensington,10 Altona St,2,h,905000,S,Edward,08-10-2016,4.2,3031,2,2,1,138,126,1999,Melbourne,-37.799,144.9276,Northern Metropolitan,5263
+1053,Kensington,70 Hardiman St,2,h,960000,S,Nelson,08-10-2016,4.2,3031,2,1,1,174,72,1900,Melbourne,-37.7959,144.9343,Northern Metropolitan,5263
+1054,Kensington,94 McConnell St,2,h,1031000,SP,Woodards,08-10-2016,4.2,3031,2,1,1,163,99,1900,Melbourne,-37.7929,144.9287,Northern Metropolitan,5263
+1056,Kensington,13 Youlden St,3,h,870000,S,Greg,08-10-2016,4.2,3031,3,1,1,211,95,1992,Melbourne,-37.7891,144.926,Northern Metropolitan,5263
+1057,Kensington,41 Barnett St,3,h,1165000,S,Nelson,10-09-2016,4.2,3031,3,1,0,239,135,1910,Melbourne,-37.7923,144.9324,Northern Metropolitan,5263
+1058,Kensington,11 Nottingham St,5,h,1710000,PI,Nelson,10-09-2016,4.2,3031,5,2,2,566,270,1890,Melbourne,-37.7893,144.933,Northern Metropolitan,5263
+1060,Kensington,39 Henry St,3,h,1455000,S,Jellis,10-12-2016,4.2,3031,3,1,0,275,120,1900,Melbourne,-37.7954,144.9274,Northern Metropolitan,5263
+1061,Kensington,114/71 Henry St,1,u,365000,VB,Edward,10-12-2016,4.2,3031,1,1,1,0,47,2012,Melbourne,-37.7961,144.9261,Northern Metropolitan,5263
+1063,Kensington,118/80 Ormond St,2,u,442000,S,Nelson,10-12-2016,4.2,3031,2,2,1,3448,71,2010,Melbourne,-37.7976,144.9285,Northern Metropolitan,5263
+1064,Kensington,51 Rankins Rd,2,h,765000,S,Nardella,10-12-2016,4.2,3031,2,1,2,158,76,1965,Melbourne,-37.7902,144.9319,Northern Metropolitan,5263
+1065,Kensington,407/72 Altona St,2,u,515000,SP,Pagan,11-02-2017,4.2,3031,2,1,1,3957,81,2010,Melbourne,-37.7974,144.9261,Northern Metropolitan,5263
+1068,Kensington,119/71 Henry St,1,u,370000,VB,Edward,12-06-2016,4.2,3031,1,1,1,0,50,2012,Melbourne,-37.7961,144.9261,Northern Metropolitan,5263
+1071,Kensington,109 Rankins Rd,2,h,1234500,SP,Nelson,13-08-2016,4.2,3031,2,2,2,169,127,2008,Melbourne,-37.7922,144.9316,Northern Metropolitan,5263
+1072,Kensington,11/33 Rankins Rd,2,u,666000,S,Nelson,13-08-2016,4.2,3031,2,1,2,1111,92,1998,Melbourne,-37.7896,144.9321,Northern Metropolitan,5263
+1075,Kensington,32 Epsom Rd,2,h,825000,S,Rendina,14-05-2016,4.2,3031,2,1,1,211,88,1915,Melbourne,-37.7925,144.9264,Northern Metropolitan,5263
+1079,Kensington,14 Altona St,2,t,812000,SP,Rendina,16-04-2016,4.2,3031,2,1,0,132,79,1887,Melbourne,-37.7989,144.9275,Northern Metropolitan,5263
+1080,Kensington,11 Nottingham St,5,h,1900000,VB,Nelson,16-04-2016,4.2,3031,5,2,2,566,270,1890,Melbourne,-37.7893,144.933,Northern Metropolitan,5263
+1082,Kensington,13/26 Barnett St,1,u,445000,S,Jellis,18-03-2017,4.2,3031,1,1,0,0,67,1997,Moonee Valley,-37.7913,144.9323,Northern Metropolitan,5263
+1083,Kensington,38 Rourke La,2,h,732000,SP,Nelson,18-06-2016,4.2,3031,3,2,1,94,130,2002,Melbourne,-37.7934,144.9166,Northern Metropolitan,5263
+1084,Kensington,33 Barnett St,3,h,1260000,S,Nelson,19-11-2016,4.2,3031,3,2,2,250,147,1900,Melbourne,-37.792,144.9324,Northern Metropolitan,5263
+1085,Kensington,51 Gatehouse Dr,3,h,1000000,SP,Nelson,19-11-2016,4.2,3031,3,2,2,211,132,1997,Melbourne,-37.7926,144.9197,Northern Metropolitan,5263
+1086,Kensington,26 Hopetoun St,2,h,1155000,SP,Edward,19-11-2016,4.2,3031,2,1,1,197,101,1890,Moonee Valley,-37.7918,144.9264,Northern Metropolitan,5263
+1090,Kensington,148b Kensington Rd,3,t,790000,SP,Edward,22-08-2016,4.2,3031,3,2,2,1181,136,2003,Melbourne,-37.7982,144.9202,Northern Metropolitan,5263
+1092,Kensington,66 Parsons St,2,t,700000,VB,Nelson,22-08-2016,4.2,3031,2,2,1,324,97,2009,Melbourne,-37.7903,144.9345,Northern Metropolitan,5263
+1094,Kensington,49 Robertson St,3,h,1230000,S,Nelson,22-08-2016,4.2,3031,3,1,1,312,109,1915,Melbourne,-37.793,144.934,Northern Metropolitan,5263
+1097,Kensington,208/465 MacAulay Rd,2,u,460000,SP,Rendina,23-04-2016,4.2,3031,2,1,1,0,84,2010,Melbourne,-37.7948,144.9314,Northern Metropolitan,5263
+1098,Kensington,1/16 Mawbey St,2,u,395000,PI,Nelson,23-04-2016,4.2,3031,2,1,1,0,80,2002,Melbourne,-37.7899,144.9231,Northern Metropolitan,5263
+1100,Kensington,123 Rankins Rd,2,h,850000,SP,Nelson,24-09-2016,4.2,3031,2,1,1,169,90,1900,Melbourne,-37.7925,144.9315,Northern Metropolitan,5263
+1106,Kensington,5 Rogan La,2,h,868000,S,Nelson,25-02-2017,4.2,3031,2,1,1,97,103,2000,Melbourne,-37.7921,144.9234,Northern Metropolitan,5263
+1108,Kensington,1/5 Wight St,2,t,773000,S,Rendina,26-07-2016,4.2,3031,2,1,1,0,90,1970,Melbourne,-37.7937,144.9295,Northern Metropolitan,5263
+1109,Kensington,111/18 Bent St,2,u,631090,S,Alexkarbon,27-06-2016,4.2,3031,2,2,1,2136,94,2012,Melbourne,-37.7956,144.935,Northern Metropolitan,5263
+1110,Kensington,10/2 Howlett St,2,u,410000,PI,Rendina,27-06-2016,4.2,3031,2,1,1,0,86,2000,Melbourne,-37.7897,144.9228,Northern Metropolitan,5263
+1112,Kensington,301/84 Altona St,2,u,425000,S,Rendina,27-11-2016,4.2,3031,2,1,1,0,59,2006,Melbourne,-37.7966,144.9254,Northern Metropolitan,5263
